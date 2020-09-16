@@ -7,12 +7,14 @@
     - [Arcane Eye](#arcane-eye)
   - [What](#what)
   - [Combat Tips](#combat-tips)
+  - [Where](#where)
 
 ## Who
 
 ### PCs
 
 - Oliver
+  - SAM!
 - Hugo
 - Herbert
 - Kazuya
@@ -43,7 +45,7 @@
 - Sophia
   - Divination Wizard
   - Italian Canadian
-  - 5.7
+  - 5.7 ft. tall
 
 ## What
 
@@ -55,3 +57,8 @@
 - Me
   - Prefer Igniting over raging in the first round
 - Herbert
+
+## Where
+
+- The Second City
+  - Comedy Club
