@@ -1,14 +1,16 @@
 # The Second City
 
-- [The Second City](#the-second-city)
-  - [Who](#who)
-    - [PCs](#pcs)
-    - [Professors](#professors)
-    - [Arcane Eye](#arcane-eye)
-  - [What](#what)
-  - [Combat Tips](#combat-tips)
-  - [Where](#where)
-  - [When](#when)
+<!-- omit in toc -->
+
+## Table of Contents
+
+1. [Who](#who)
+   1. [PCs](#pcs)
+   2. [Professors](#professors)
+   3. [Arcane Eye](#arcane-eye)
+2. [What](#what)
+3. [Where](#where)
+4. [When](#when)
 
 ## Who
 
@@ -69,12 +71,6 @@
   - Combined with pure memories, can create anything
   - Hyper focused stone
 
-## Combat Tips
-
-- Me
-  - Prefer Igniting over raging in the first round
-- Herbert
-
 ## Where
 
 - The Second City
@@ -91,3 +87,6 @@
   - Next time, saving Hugo!
 - 2020-09-22 Session
   - Big fight near power plant.
+- 2020-10-03 Session
+  - Info ump about Andrew's Past.
+  - Andrew's wife is his phylactery?

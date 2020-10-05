@@ -1,18 +1,17 @@
 # TideBreaker
 
-- [TideBreaker](#tidebreaker)
-  - [Who](#who)
-    - [PC's](#pcs)
-    - [Other Crew](#other-crew)
-    - [Misc](#misc)
-    - [Groups](#groups)
-  - [What](#what)
-    - [World Building](#world-building)
-      - [Economy](#economy)
-  - [When](#when)
-  - [Where](#where)
-  - [Why](#why)
-  - [Jokes](#jokes)
+1. [Who](#who)
+   1. [PC's](#pcs)
+   2. [Other Crew](#other-crew)
+   3. [Misc](#misc)
+   4. [Groups](#groups)
+2. [What](#what)
+   1. [World Building](#world-building)
+      1. [Economy](#economy)
+3. [When](#when)
+4. [Where](#where)
+5. [Why](#why)
+6. [Jokes](#jokes)
 
 \* = Character doesn't know
 
@@ -41,7 +40,7 @@
   - Half-Orc
   - Barb?
   - y u haf be mad?
-- Echichi (Crawly)
+- Echiechie (Crawly)
   - Female Lizard folk
 - Michael Malhollen (The Butcher)
   - Meatboy (Pringle's mustache)
