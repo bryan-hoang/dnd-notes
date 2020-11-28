@@ -87,6 +87,19 @@
 - Horses
   - Chestnut
   - Black with white spot on right
+- Two ways of contracting Lycanthropy
+  - Bite
+    - Curable through typical means
+  - Genetic
+    - Dominant Gene
+  - Originates from worshipping lunaris
+- Lunaris
+  - Primary moon goddess
+- Were types
+  - Lions
+  - Bears
+  - Rats
+  - Wolves
 
 ### World Building
 
@@ -122,10 +135,20 @@
   - Nation to the west
 - The Rotten Apple
   - Inn
+- Haven
+  - Magical
+  - By Haywark
+  - Organized by disclipines of magic
+  - Sorcerers lumped in with wizards
+  - Heretic's Abbey
+    - Holy people
+  - Wizard's Way
+    - Wizards (& Sorcerers)
+  - 
 
 ## Why
 
--
+- 
 
 ## Jokes
 
