@@ -61,10 +61,15 @@
 - Captain Yerk
 - Tiz
   - Shopowner
+  - Crazy
 - Honest time
   - Large with red beard
 - Twozone
   - Shopowner for blackmarket horses
+- Haywark
+  - Powerful
+- Not
+  - Haywark's assistant
 
 ### Groups
 
@@ -135,7 +140,17 @@
   - Nation to the west
 - The Rotten Apple
   - Inn
-- Haven
+- Haywark's Haven
+  - Tower is PRISTINE
+    - Man screw this tower
+    - Animal floor Cages
+      - 4 legged human face with long barbed tail and a book with 100 fun
+        riddles - Manticore (targets)
+      - Rocks and tinted glass, blue and green winged dragonlike creature,
+        shimmers rainbow - Fairy Dragon (runes)
+      - Gore, four legged golden fur with mane and human face. Sphinx (riddles)
+      - Target boards, 8 legged scaled triangular head crocodile - Basillisk (glass)
+      - Empty with runes and ajar door
   - Magical
   - By Haywark
   - Organized by disclipines of magic
@@ -144,11 +159,8 @@
     - Holy people
   - Wizard's Way
     - Wizards (& Sorcerers)
-  - 
 
 ## Why
-
-- 
 
 ## Jokes
 
