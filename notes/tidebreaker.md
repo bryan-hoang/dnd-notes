@@ -105,6 +105,9 @@
   - Bears
   - Rats
   - Wolves
+- Golthias Tree
+  - Vampire, killed by stake with it left in
+  - Evil went into stake, and grew into tree due to crazed druid
 
 ### World Building
 
@@ -149,7 +152,8 @@
       - Rocks and tinted glass, blue and green winged dragonlike creature,
         shimmers rainbow - Fairy Dragon (runes)
       - Gore, four legged golden fur with mane and human face. Sphinx (riddles)
-      - Target boards, 8 legged scaled triangular head crocodile - Basillisk (glass)
+      - Target boards, 8 legged scaled triangular head crocodile - Basillisk
+        (glass)
       - Empty with runes and ajar door
   - Magical
   - By Haywark
