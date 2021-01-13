@@ -10,7 +10,7 @@
     - [Economy](#economy)
 - [When](#when)
 - [Where](#where)
-- [Why](#why)
+- [Quests](#quests)
 - [Jokes](#jokes)
 - [Dwite's Background](#dwites-background)
   - [Gilramore](#gilramore)
@@ -76,9 +76,12 @@
   - Powerful
 - Not
   - Haywark's assistant
-- Lawrence brantly
+- **Lawrence Brantly**
   - Spiked hair
   - Bought books
+- Nathan Stilts
+  - Forger during tournament
+  - Weighted my sword which caused me to lose the fight
 
 ### Groups
 
@@ -123,6 +126,8 @@
   - Glenrock
   - Whiteridge
   - Rook's Port
+- Hangings
+  - Happens in more civilized cities, e.g. Whiteridge, Glenrock, & Aerilon
 
 ### World Building
 
@@ -182,13 +187,19 @@
     - Fiend's Pit
       - A literal pit
       - Warlock stuff, looks spooky (Halloween)
+  - Mirstone
+  - Strott
+    - Gets shit on
   - Glenrock
   - Aerilon
   - Rook's Port
   - Dragon's Fang
     - "Military road stop, for the Gilded Coast
 
-## Why
+## Quests
+
+- Haywark: Fresh Troll's Blood
+  - Look for places where people were eaten
 
 ## Jokes
 
