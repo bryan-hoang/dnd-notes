@@ -82,6 +82,7 @@
 - Nathan Stilts
   - Forger during tournament
   - Weighted my sword which caused me to lose the fight
+- Doana Moana
 
 ### Groups
 
@@ -153,10 +154,12 @@
   - Prosperity
     - Town
     - Bar District
+    - Trade Prince!?!?!?!
   - Whiteridge
     - Forger's Guild
     - Trade Prince
       - Brian "with a y"
+      - A dwarf
   - East Hollow
     - Town west of Prosperity
   - Lazy Shore
