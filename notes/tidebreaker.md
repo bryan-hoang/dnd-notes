@@ -28,12 +28,17 @@
 - Dwite Eagleshield (Dovespear)
   - Paladin (Conqueror or Vengeance?)
 - Argent
-  - Warlock
-  - Deadeye
+  - Class Warlock
+  - Nickname: Deadeye
+  - Brother is dead
 - Torvald Ulfgrimsson
   - Barbarian
 - Kony Longarms
-- Fighter (Samurai?)
+  - Knight from \<KINGDOM\>
+  - "Cheated" in a fight to get sword
+  - The sword is a well-made knight's sword, has caused the crew some trouble
+  - Trying to find gold sword
+  - Fighter (Samurai?)
 
 ### Other Crew
 
@@ -82,7 +87,10 @@
 - Nathan Stilts
   - Forger during tournament
   - Weighted my sword which caused me to lose the fight
-- Doana Moana
+- Doana Moana (Deceased)
+  - Teacher
+- Skully Redbeard
+  - Trade Prince of Prosperity
 
 ### Groups
 
@@ -129,6 +137,17 @@
   - Rook's Port
 - Hangings
   - Happens in more civilized cities, e.g. Whiteridge, Glenrock, & Aerilon
+- Argent not a scroll depicting
+  - Event with world serpent
+  - 3 races:
+    - Lizardfolk
+    - Yonti
+      - Snake fortress
+    - Naga
+      - Immortal (fav race)
+- Document's Kony got from forger in Whiteridge (**Fullgram Flaskhide**) got a
+  job to repair a gold/silver sword (Stormbringer). Name for teh job was
+  deliberately removed???
 
 ### World Building
 
@@ -154,7 +173,7 @@
   - Prosperity
     - Town
     - Bar District
-    - Trade Prince!?!?!?!
+    - Trade Prince: Skully Redbeard
   - Whiteridge
     - Forger's Guild
     - Trade Prince
