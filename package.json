@@ -14,7 +14,7 @@
     "format": "prettier -c .",
     "lint": "eslint --cache --ext ts,tsx,js .",
     "markdownlint": "markdownlint .",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "npm run markdownlint"
   },
   "dependencies": {},
   "devDependencies": {
