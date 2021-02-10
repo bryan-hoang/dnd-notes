@@ -33,12 +33,13 @@
   - Brother is dead
 - Torvald Ulfgrimsson
   - Barbarian
+  - Odin the Blink Dog
 - Kony Longarms
   - Knight from \<KINGDOM\>
   - "Cheated" in a fight to get sword
   - The sword is a well-made knight's sword, has caused the crew some trouble
   - Trying to find gold sword
-  - Fighter (Samurai?)
+  - Fighter (Samurai)
 
 ### Other Crew
 
@@ -91,6 +92,11 @@
   - Teacher
 - Skully Redbeard
   - Trade Prince of Prosperity
+  - Impulsive
+  - Tends to escalate
+  - SUPER RED BEARD
+  - Eye patch left eye
+  - BOOZE
 
 ### Groups
 
@@ -146,8 +152,9 @@
     - Naga
       - Immortal (fav race)
 - Document's Kony got from forger in Whiteridge (**Fullgram Flaskhide**) got a
-  job to repair a gold/silver sword (Stormbringer). Name for teh job was
+  job to repair a gold/silver sword (Stormbringer). Name for the job was
   deliberately removed???
+- Cyclops Ale
 
 ### World Building
 
@@ -173,7 +180,9 @@
   - Prosperity
     - Town
     - Bar District
-    - Trade Prince: Skully Redbeard
+    - The Jolly Roger
+      - A Gallion
+      - Trade Prince: _Skully Redbeard_
   - Whiteridge
     - Forger's Guild
     - Trade Prince
