@@ -183,6 +183,27 @@
     - The Jolly Roger
       - A Gallion
       - Trade Prince: _Skully Redbeard_
+    - Market District
+      - Tiz's Shop
+        - Tiz
+      - Just Drugs
+        - Pablo
+      - Arrr (Pet store)
+        - Kieran (Tabaxi)
+      - Johnny's place
+        - Johnny's
+      - Rigged
+        - Gus
+          - Portly
+    - The Boozedocks
+      - The poop deck
+        - Scheezy
+    - Logic Puzzle
+      - T(H): P bite
+      - P(W): 1 bite
+      - K(H): J not bite
+      - G(W): If P bite, K bite
+      - J(H): If G not bite, K bite
   - Whiteridge
     - Forger's Guild
     - Trade Prince
