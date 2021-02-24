@@ -97,6 +97,20 @@
   - SUPER RED BEARD
   - Eye patch left eye
   - BOOZE
+- Pablo
+  - Werewolf
+- Gus
+  - Werewolf
+- Styles Mad Eye
+  - Werewolf
+  - Wants some Cyclops Ale
+- Honest Tim
+  - Werewolf
+- Margery Marlow
+  - Werewolf
+- Stan Noknees
+- Cyclopses
+  - Don't try to fight head on, are stupid
 
 ### Groups
 
@@ -178,20 +192,20 @@
 
 - The Gilded Coasts
   - Prosperity
-    - Town
+    - Town (~pop 100-150)
     - Bar District
     - The Jolly Roger
       - A Gallion
       - Trade Prince: _Skully Redbeard_
     - Market District
       - Tiz's Shop
-        - Tiz
+        - Tiz (Eccentric)
       - Just Drugs
         - Pablo
       - Arrr (Pet store)
         - Kieran (Tabaxi)
       - Johnny's place
-        - Johnny's
+        - Johnny
       - Rigged
         - Gus
           - Portly
@@ -200,9 +214,9 @@
         - Scheezy
     - Logic Puzzle
       - T(H): P bite
-      - P(W): 1 bite
+      - P(B): 1 bite
       - K(H): J not bite
-      - G(W): If P bite, K bite
+      - G(B): If P bite, K bite
       - J(H): If G not bite, K bite
   - Whiteridge
     - Forger's Guild
@@ -240,6 +254,7 @@
       - A literal pit
       - Warlock stuff, looks spooky (Halloween)
   - Mirstone
+    - North (Monster Hunting)
   - Strott
     - Gets shit on
   - Glenrock
