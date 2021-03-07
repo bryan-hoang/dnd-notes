@@ -133,12 +133,14 @@
 - Horses
   - Chestnut
   - Black with white spot on right
-- Two ways of contracting Lycanthropy
-  - Bite
-    - Curable through typical means
-  - Genetic
-    - Dominant Gene
-  - Originates from worshipping lunaris
+- Lycanthropy
+  - Contracting
+    - Bite
+      - Curable through "typical" means
+      -
+    - Genetic
+      - Dominant Gene
+  - Originates from worshipping Lunaris
 - Lunaris
   - Primary moon goddess
 - Were types
@@ -212,6 +214,7 @@
     - The Boozedocks
       - The poop deck
         - Scheezy
+      - Jay's shop (High class alcohol)
     - Logic Puzzle
       - T(H): P bite
       - P(B): 1 bite
@@ -255,6 +258,7 @@
       - Warlock stuff, looks spooky (Halloween)
   - Mirstone
     - North (Monster Hunting)
+    - Various lifeforms (e.g. a druid)
   - Strott
     - Gets shit on
   - Glenrock
@@ -267,6 +271,8 @@
 
 - Haywark: Fresh Troll's Blood
   - Look for places where people were eaten
+- Redbeard: Cyclops Ale
+  - Look for Cyclopses
 
 ## Jokes
 
