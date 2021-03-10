@@ -5,7 +5,7 @@
   - [Other Crew](#other-crew)
   - [Misc](#misc)
   - [Groups](#groups)
-- [What](#what)
+- [What (Events)](#what-events)
   - [World Building](#world-building)
     - [Economy](#economy)
 - [When](#when)
@@ -122,7 +122,7 @@
   - Bran
 - Honest Tim's Crew
 
-## What
+## What (Events)
 
 - Pirate ship: Tidebreaker
 - Boomtown shop\*
@@ -141,6 +141,7 @@
     - Genetic
       - Dominant Gene
   - Originates from worshipping Lunaris
+  - Doesn't affect personality that much in non-werewolf form
 - Lunaris
   - Primary moon goddess
 - Were types
@@ -171,6 +172,8 @@
   job to repair a gold/silver sword (Stormbringer). Name for the job was
   deliberately removed???
 - Cyclops Ale
+- Werewolves are moved to an island sanctuary
+  - **TODO: SOLVE ISSUE!**
 
 ### World Building
 
@@ -257,8 +260,19 @@
       - A literal pit
       - Warlock stuff, looks spooky (Halloween)
   - Mirstone
+    - Trade Princess: Talai (Traditionally The Alpha)
     - North (Monster Hunting)
     - Various lifeforms (e.g. a druid)
+    - Sections
+      - The Dens
+        - Alpha Camp
+        - The Grove
+          - Bad luck, aggressive trees
+        - Nesingwary Camp
+        - Brightjaw Camp
+      - Trade Post
+      - West
+        - Weaker monsters
   - Strott
     - Gets shit on
   - Glenrock
