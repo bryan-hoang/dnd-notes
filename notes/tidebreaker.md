@@ -111,6 +111,11 @@
 - Stan Noknees
 - Cyclopses
   - Don't try to fight head on, are stupid
+- Valrune
+- The Alpha
+  - Goliath
+  - Blue war paint on cheeks
+  - Has giant crossbow
 
 ### Groups
 
@@ -266,6 +271,7 @@
     - Sections
       - The Dens
         - Alpha Camp
+          - On rock shelf
         - The Grove
           - Bad luck, aggressive trees
         - Nesingwary Camp
