@@ -179,6 +179,11 @@
 - Cyclops Ale
 - Werewolves are moved to an island sanctuary
   - **TODO: SOLVE ISSUE!**
+- Cyclops
+  - Encampment NW
+  - Trolls
+    - N, thing over head
+    - Acid, fire
 
 ### World Building
 
