@@ -116,6 +116,15 @@
   - Goliath
   - Blue war paint on cheeks
   - Has giant crossbow
+- Nesinwary
+  - Missing
+  - Was in tent, and then disappeared
+  - Camp is cluttered
+- Tavish is also missing after going to near the Grove
+- Cara?
+  - Close with Nesinwary
+- Tyr
+  - Small Dwarf
 
 ### Groups
 
@@ -180,10 +189,10 @@
 - Werewolves are moved to an island sanctuary
   - **TODO: SOLVE ISSUE!**
 - Cyclops
-  - Encampment NW
-  - Trolls
-    - N, thing over head
-    - Acid, fire
+  - Encampment NW, on plateau
+- Trolls
+  - N, thing over head
+  - Acid, fire
 
 ### World Building
 
