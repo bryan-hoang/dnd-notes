@@ -125,6 +125,7 @@
   - Close with Nesinwary
 - Tyr
   - Small Dwarf
+- Tavish hunting Manticore
 
 ### Groups
 
@@ -193,6 +194,9 @@
 - Trolls
   - N, thing over head
   - Acid, fire
+- Chatted with Gru
+- Tyr got in argument about abandoning comrades
+- Barm
 
 ### World Building
 
