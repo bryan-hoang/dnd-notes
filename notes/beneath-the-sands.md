@@ -97,3 +97,12 @@ though...
 - Family: No strict traditions
 - Economy: LIVESTOCK
 - Deserts suck (Travel along reasonable routes)
+
+## Session 2
+
+- We meet Set
+- Need to find Horus (Suddenly missing)
+  - Promised riches and treasure
+- Jaf's wife is okay with Jaf moving temporarily
+
+-

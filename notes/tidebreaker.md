@@ -83,8 +83,9 @@
 - Not
   - Haywark's assistant
 - **Lawrence Brantly**
+  - An elf
   - Spiked hair
-  - Bought books
+  - Bought books from the Fiend's Pit in Haywark's Haven
 - Nathan Stilts
   - Forger during tournament
   - Weighted my sword which caused me to lose the fight
@@ -126,6 +127,16 @@
 - Tyr
   - Small Dwarf
 - Tavish hunting Manticore
+- Brigette
+  - Stern productive Dwarf
+  - Helped us with finding Tavish and the others
+  - Parrot (Thor)
+- Coru
+  - Female Elf who's a druid living in the middle of the Grove
+- Accun
+  - Located in Calruden
+  - Order of the Vine
+  - Most powerful/notable Druid as noted by Coru
 
 ### Groups
 
@@ -197,6 +208,15 @@
 - Chatted with Gru
 - Tyr got in argument about abandoning comrades
 - Barm
+- Found ruby that was prepped to act as a Focus
+- Vibing outside the Grove lets Dwite appreciate how it's supression of
+  aggresive nature make Dwite feel like it's possible to control his Lycanthropy
+- Meet a female Elf (Coru) in the middle of the Grove in a cottage, with
+  white/silver hair
+- Lawrence met Coru (few months ago), asking about Gulthias trees.
+- More info on Gulthias trees:
+  - Evil soul imbued within it, would attempt to follow same goals in life
+  - "Don't fuck with them" -Coru
 
 ### World Building
 
