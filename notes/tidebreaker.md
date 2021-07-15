@@ -34,9 +34,10 @@
 - Torvald Ulfgrimsson
   - Barbarian
   - Odin the Blink Dog
+  - Parrot (Geralt)
 - Kony Longarms
-  - Knight from \<KINGDOM\>
-  - "Cheated" in a fight to get sword
+  - Knight from Merroth
+  - "Cheated" in a fight to get sword (Framed?)
   - The sword is a well-made knight's sword, has caused the crew some trouble
   - Trying to find gold sword
   - Fighter (Samurai)
@@ -74,7 +75,7 @@
 - Tiz
   - Shopowner
   - Crazy
-- Honest time
+- Honest tim
   - Large with red beard
 - Twozone
   - Shopowner for blackmarket horses
@@ -84,7 +85,7 @@
   - Haywark's assistant
 - **Lawrence Brantly**
   - An elf
-  - Spiked hair
+  - Spiked white hair
   - Bought books from the Fiend's Pit in Haywark's Haven
 - Nathan Stilts
   - Forger during tournament
@@ -121,22 +122,26 @@
   - Missing
   - Was in tent, and then disappeared
   - Camp is cluttered
-- Tavish is also missing after going to near the Grove
+- Tavish
+  - Right hand man to Nesinwry
 - Cara?
   - Close with Nesinwary
 - Tyr
   - Small Dwarf
-- Tavish hunting Manticore
 - Brigette
   - Stern productive Dwarf
   - Helped us with finding Tavish and the others
-  - Parrot (Thor)
-- Coru
+- Koru
   - Female Elf who's a druid living in the middle of the Grove
 - Accun
   - Located in Calruden
   - Order of the Vine
-  - Most powerful/notable Druid as noted by Coru
+    - Pasifist druidic circle
+  - Most powerful/notable Druid as noted by Koru
+- Lilac
+  - Oath of Vengeance Paladin
+- Korrak
+  - Divination specialist that's a Warlock
 
 ### Groups
 
@@ -147,6 +152,10 @@
   - Need a Guild Card
   - Bran
 - Honest Tim's Crew
+- Order of the Moon
+  - Familiar with lycanthropy (may have caused it)
+  - A group NE of Glenrock, days worth of travel inland
+    - Stone circle on a hill (centuries ago)
 
 ## What (Events)
 
@@ -210,13 +219,28 @@
 - Barm
 - Found ruby that was prepped to act as a Focus
 - Vibing outside the Grove lets Dwite appreciate how it's supression of
-  aggresive nature make Dwite feel like it's possible to control his Lycanthropy
-- Meet a female Elf (Coru) in the middle of the Grove in a cottage, with
+  aggressive nature make Dwite feel like it's possible to control his
+  Lycanthropy
+- Meet a female Elf (Koru) in the middle of the Grove in a cottage, with
   white/silver hair
-- Lawrence met Coru (few months ago), asking about Gulthias trees.
+- Lawrence met Koru (few months ago), asking about Gulthias trees.
 - More info on Gulthias trees:
   - Evil soul imbued within it, would attempt to follow same goals in life
-  - "Don't fuck with them" -Coru
+  - "Don't fuck with them" -Koru
+- Parrots speak sylvan
+- Barrels containing Cyclops Ale may originate from Dragon's Fang
+- Pirating other ships:
+  - Usually kill and keep quite about it
+  - Goods can be material (sell) or living (ransoms)
+- Argent spoke with a spooky sea monster
+- Kony tries to scry on Lawrence Brantly
+  - Argent draws a "likeness" to no avail
+- Torvald goes to a pet store to get tips on improving his pet training
+- Dwite swear his Oath of Vengeance, meeting Lilac (also Oath of Vengeance) and
+  making him a witness
+- Argent is researching pacts and patrons
+- The Sea's Breach
+  - Heading from Calistar to Mirstone/Prosperity
 
 ### World Building
 
@@ -296,7 +320,7 @@
     - By Haywark
     - Organized by disclipines of magic
     - Heretic's Abbey
-      - Holy people
+      - Paladins who have abandoned their Oath
     - Wizard's Way
       - Wizards (& Sorcerers)
     - Fiend's Pit

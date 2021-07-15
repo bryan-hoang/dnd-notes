@@ -1,4 +1,4 @@
-# Brent Campaign 2
+# Beneath The Sands
 
 - [Character Pitches](#character-pitches)
   - [Template](#template)
@@ -13,6 +13,11 @@
     - [Summary](#summary-2)
 - [Session 0](#session-0)
   - [World building](#world-building)
+- [Session 2](#session-2)
+- [Session 3](#session-3)
+- [Session 4](#session-4)
+- [Session 5](#session-5)
+- [Session 6](#session-6)
 
 \* = Character doesn't know
 
@@ -102,7 +107,50 @@ though...
 
 - We meet Set
 - Need to find Horus (Suddenly missing)
+  - Couldn't find him because he isn't on sand currently
   - Promised riches and treasure
 - Jaf's wife is okay with Jaf moving temporarily
+- Syndra has a vision
+  - Both of Horus' eyes were suced out during a tornado
+
+## Session 3
+
+- Got attacked by dogs on the boat on the Nile ot heliopolis
+  - Seemed to be targeting Alphonse
+
+## Session 4
+
+- Decided to continue to Heliopolis
+- Arrive, and see temple, construction areas, and a market
+- Sapt looking for a ring adorned with a brass globe
+- Shopping trip in the market! (Mixed with some stealing/kebabs)
+- Meet Chief architect of pyramid with black granite
+  - Gave a map
+- Granite came from a dream vision they had with the Eye of Horus
+- Bad dream tn
+
+## Session 5
+
+- Fight Horus (Statue)
+
+## Session 6
+
+- Chat with Horus
+- Horus gives people a fly around the city
+- Set approaches us in a sandstorm similar to on the boat
+- Horus and Set have friction in between them
+  - Set killed Horus' father (Osirus)
+- Creation story:
+  - In the beginning, water
+  - Names of chaos (Aten, to become Ra)
+  - Apophis, serpent of ... chaos
+  - Poof, Earth and Man
+  - Day/Night cycle of Ra
+  - Ra decided to live with Humans
+  - Humans are dumb and tried to mutiny. Ra killed decided to restart Human%
+    speedrun
+  - Set & Osirus, story
+- Chat with Chief Architect
+  - Stopped getting dreams once the city was found
 
 -
