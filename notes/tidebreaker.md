@@ -86,7 +86,7 @@
 - **Lawrence Brantly**
   - An elf
   - Spiked white hair
-  - Bought books from the Fiend's Pit in Haywark's Haven
+  - Bought books from the Fiend's Pit in Haywark's Haven from bookkeeper
 - Nathan Stilts
   - Forger during tournament
   - Weighted my sword which caused me to lose the fight
@@ -235,12 +235,27 @@
 - Argent spoke with a spooky sea monster
 - Kony tries to scry on Lawrence Brantly
   - Argent draws a "likeness" to no avail
+  - The warlock (Korrak) fails miserably
 - Torvald goes to a pet store to get tips on improving his pet training
+  - Bought some tools to help
 - Dwite swear his Oath of Vengeance, meeting Lilac (also Oath of Vengeance) and
   making him a witness
-- Argent is researching pacts and patrons
-- The Sea's Breach
+- Argent is researching pacts and patrons to try and figure out his patron
+- The Snow's Breach
   - Heading from Calistar to Mirstone/Prosperity
+- Molly's Magic Mead
+- Goblin (Molly?)
+  - Pink and blue tie with pants
+- Fight in Brick's and Rick's stores
+- Argent asks Knot about how residents of Haven are tracked
+  - Big bois that live in houses
+    - ... Juran - Wizard
+    - Father Griman - Priest
+- Kony tries to talk to the bookkeeper who told us about Lawrence/Korrak
+  - Mans BLOODTHIRSTY
+  - The bookkeeper tells Kony that Lawrence's money hints at him being from
+    Strot
+- Dick and Dick
 
 ### World Building
 
