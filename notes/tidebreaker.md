@@ -249,13 +249,24 @@
 - Fight in Brick's and Rick's stores
 - Argent asks Knot about how residents of Haven are tracked
   - Big bois that live in houses
-    - ... Juran - Wizard
+    - ... Juran (Gnome) - Wizard
     - Father Griman - Priest
 - Kony tries to talk to the bookkeeper who told us about Lawrence/Korrak
-  - Mans BLOODTHIRSTY
+  - Man's BLOODTHIRSTY
   - The bookkeeper tells Kony that Lawrence's money hints at him being from
-    Strot
+    Strott (Trade city), and gave it to Kony
 - Dick and Dick
+- Argent visits a defence Minister to inquire about nearby ships (e.g. the
+  flying Wolf)
+- Privacy is important for visitors of Haven
+- Kony chats with Grog and Happy about pirating ships
+- Torvald dies _Kappa_
+  - In actuality, he and Dwite rob the pet store, mainly for training Odin
+- Potion Legend:
+  - 1. Red, str/spd
+  - 2. Yellow Green, Iron skin/rejuv
+  - 3. Blue, Big dumb depresso expresso
+  - 4. Clear, trusight/mind
 
 ### World Building
 
