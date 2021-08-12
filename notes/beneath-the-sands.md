@@ -18,6 +18,8 @@
 - [Session 4](#session-4)
 - [Session 5](#session-5)
 - [Session 6](#session-6)
+- [Session 7](#session-7)
+- [Session 8](#session-8)
 
 \* = Character doesn't know
 
@@ -111,7 +113,7 @@ though...
   - Promised riches and treasure
 - Jaf's wife is okay with Jaf moving temporarily
 - Syndra has a vision
-  - Both of Horus' eyes were suced out during a tornado
+  - Both of Horus' eyes were sucked out during a tornado
 
 ## Session 3
 
@@ -154,4 +156,22 @@ though...
 
   - Stopped getting dreams once the city was found
 
--
+## Session 7
+
+Get clapped
+
+## Session 8
+
+- People wanted Jaf to move to Heliopolis, but were surprised when he came back
+- Alphonse discerns that. People want to lure champions of gods to where they're
+  going to be trapped
+- Saddiq: Moonlight like magic
+  - Gives Syndra a sick robe
+- Cyrus has a discussion with the Captain of the Palace Guards
+  - Cyrus has been talking with the captain about his "time off", it appears the
+    captain doesn't necessarily think anythings up, so the orders would've been
+    coming from further up
+- Jaf's wife is mad at him for getting in danger
+  - They have an intense argument about how to avoid danger
+- Arune finds a nest with a note and talks to his sibling
+- If Moon bad, then the Sun may be bad

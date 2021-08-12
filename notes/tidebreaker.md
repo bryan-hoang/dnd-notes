@@ -35,6 +35,7 @@
   - Barbarian
   - Odin the Blink Dog
   - Parrot (Geralt)
+  - Purple hair
 - Kony Longarms
   - Knight from Merroth
   - "Cheated" in a fight to get sword (Framed?)
@@ -88,8 +89,10 @@
   - Spiked white hair
   - Bought books from the Fiend's Pit in Haywark's Haven from bookkeeper
 - Nathan Stilts
+  - Black hair, pale dwarf
   - Forger during tournament
   - Weighted my sword which caused me to lose the fight
+  - Newbie blacksmith
 - Doana Moana (Deceased)
   - Teacher
 - Skully Redbeard
@@ -142,6 +145,8 @@
   - Oath of Vengeance Paladin
 - Korrak
   - Divination specialist that's a Warlock
+- Blaggard
+  - Expert weaponsmith
 
 ### Groups
 
@@ -262,11 +267,37 @@
 - Kony chats with Grog and Happy about pirating ships
 - Torvald dies _Kappa_
   - In actuality, he and Dwite rob the pet store, mainly for training Odin
+  - Odin gets Purple and Gold collar
 - Potion Legend:
   - 1. Red, str/spd
   - 2. Yellow Green, Iron skin/rejuv
   - 3. Blue, Big dumb depresso expresso
-  - 4. Clear, trusight/mind
+  - 4. Clear, true sight/mind
+- Heading West to Whiteridge/Prosperity
+- Dwite and Torvald head into Whiteridge to find Nathan
+  - Torvald goes into a tavern (The Hot Iron)
+    - Nathan went to Blaggard (east side, weaponsmith) for employment
+- Argent will eventually need to find info on resurrections and rebirth
+- Kony and Grog pick things up and put them back down
+
+**Session:**
+
+- Prosperity is back to normal after werewolf attack
+- Plan to trick Scully into hosting a party to take advantage of his rivals
+  - Crowly is one of his rivals
+- Kony and Dwite get some apparal
+- Torvald gets his beard styled
+  - Dwarf with traditional family Barber informs him of shady businesses (snake
+    oil)
+  - Tabaxi shop owner
+- Garalt learns the words shut up
+  - quite
+  - hush
+  - hold your breath
+  - pipe down
+  - silence
+  - stop talking
+  - dummy up
 
 ### World Building
 
@@ -318,7 +349,9 @@
       - G(B): If P bite, K bite
       - J(H): If G not bite, K bite
   - Whiteridge
-    - Forger's Guild
+    - West entrance is awkward (rampant poverty)
+    - Forger's square/guild
+    -
     - Trade Prince
       - Brian "with a y"
       - A dwarf
@@ -394,6 +427,7 @@
 - Several houses that rule regions of land, all ruled by one king, known as the
   Lord Acting.
 - Big GoT vibes, political scheming, etc.
+- Symbol of status is sword
 
 ### Houses
 
@@ -431,6 +465,8 @@
   tournament, final two are Percival and Dwite. Percival beats Dwite (despite
   Dwite generally being better at swordplay).
 - Dwite leaves Gilramore overnight out of shame, comes to Gilded coast
+- Has a necklace of a shield with an eagle head symbol on it to represent his
+  housewears it only when necessary
 
 ### TO-DO
 
