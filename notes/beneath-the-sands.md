@@ -20,6 +20,7 @@
 - [Session 6](#session-6)
 - [Session 7](#session-7)
 - [Session 8](#session-8)
+- [Session 9](#session-9)
 
 \* = Character doesn't know
 
@@ -171,7 +172,40 @@ Get clapped
   - Cyrus has been talking with the captain about his "time off", it appears the
     captain doesn't necessarily think anythings up, so the orders would've been
     coming from further up
-- Jaf's wife is mad at him for getting in danger
+  - Mirror is a magic mirror to watch others
+  - Got stabbed by a doppler ganger of the captain
+- Jaf's wife is mad at him for getting in danger :(
   - They have an intense argument about how to avoid danger
-- Arune finds a nest with a note and talks to his sibling
-- If Moon bad, then the Sun may be bad
+- Arun finds a nest with a note and talks to his sibling
+- Alphonse met a lumiere looking person
+  - If Moon bad, then the Sun may be bad
+
+## Session 9
+
+- Cyrus performs a ceremony to resummon his stolen genie lamp
+  - Finds magical camo cloak and camo hat
+- Arun has dream with Sapphire eggs
+  - Meets Horus in a "the talk" fashion and gets a message from him
+- Sapt Aten has a dream with an aspect of the sun in her house
+  - Aten existed once Sapt **BELIEVED HARD ENOUGH**
+  - Receives a smoking hot pipe and a lovely ointment
+- Alphonse plays a game with a weird shop man
+  - Asks alphonse to say that moon may be bad, but amkes choices to give energy
+    back, or something
+- Trying to find clues with the gang
+  - Searching viser's office of journals that need mirror to read
+- Arun spars with the Pharoh (Amos)
+  - Finds out he got a moonstone (evolve jigglypuff?)
+- Genies are op op w.r.t. what they can access
+- The party meets "The Cook" (Carlos, pre Chaz Cook)
+- In the royal library:
+  - Cyrus learns that
+    - Genies are elemental, not divine
+    - The powa of the genies is the same as the powa of the sun
+    - His Genie is different
+  - Arun asks Saddiq about his dream with Horus
+    - Saddiq tells him that he may have 3 patrons (Set, Horus, Moon?)
+  - Alphonse learns some things that make him more ostracised
+- Carlos says the map is meant to be confusing, and always shows it's current
+  location as the origin?
+  - THe city might be a path to the underworld
