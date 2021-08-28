@@ -7,5 +7,31 @@
     "Nesingwary",
     "Strott",
     "Talai"
-  ]
+  ],
+  "peacock.remoteColor": "#007fff",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#3399ff",
+    "activityBar.activeBorder": "#bf0060",
+    "activityBar.background": "#3399ff",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#bf0060",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "editorGroup.border": "#3399ff",
+    "panel.border": "#3399ff",
+    "sideBar.border": "#3399ff",
+    "statusBar.background": "#0066cc",
+    "statusBar.border": "#0066cc",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#007fff",
+    "tab.activeBorder": "#3399ff",
+    "titleBar.activeBackground": "#0066cc",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.border": "#0066cc",
+    "titleBar.inactiveBackground": "#0066cc99",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.debuggingBackground": "#cc6600",
+    "statusBar.debuggingBorder": "#cc6600",
+    "statusBar.debuggingForeground": "#e7e7e7"
+  }
 }

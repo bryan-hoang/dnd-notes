@@ -208,4 +208,4 @@ Get clapped
   - Alphonse learns some things that make him more ostracised
 - Carlos says the map is meant to be confusing, and always shows it's current
   location as the origin?
-  - THe city might be a path to the underworld
+  - The city might be a path to the underworld

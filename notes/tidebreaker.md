@@ -285,11 +285,11 @@
 - Prosperity is back to normal after werewolf attack
 - Plan to trick Scully into hosting a party to take advantage of his rivals
   - Crowly is one of his rivals
-- Kony and Dwite get some apparal
+- Kony and Dwite get some DRIPPY apparal
 - Torvald gets his beard styled
   - Dwarf with traditional family Barber informs him of shady businesses (snake
     oil)
-  - Tabaxi shop owner
+  - Tabaxi shop owner (Nelly) is a sussy baka
 - Garalt learns the words shut up
   - quite
   - hush
@@ -298,6 +298,39 @@
   - silence
   - stop talking
   - dummy up
+
+**Party time:**
+
+- Torvald, Donny, and Grog head to Nelly's shop to rob it
+  - They get one of the most valuable items in the shop
+  - Torvald makes Grog bait the shopkeeper
+- Attend the booze party
+  - Tiz is playing five finger fillet
+  - Crowly
+    - Black shoulder length hair
+    - Posh w/ contempt
+  - Argent gets Crowly to invite the crew to the Golden Swallow
+  - Dwite meets Cregg (Short for Creggethy)
+
+**Placeholder:**
+
+- Torvald is too drunk
+- Argent asks around about the Flying Wolf ship
+- Skully was mutinied by his first mate 5 years ago as Trade Prince. Then he
+  came back a few years later to take back the title
+- Trade Prince turnover rate is high in prosperity
+- We tail Crowly
+  - Heading more south, farther from the docks
+- Head into his home on the premise of needing to leave tomorrow based on
+  Argent's invite
+  - Toured the house containing a lot of expensive items
+  - Lots of stuff from Rook's port
+  - Captain Fruellur is competing against Crowly
+  - Gracken spotted east of prosperity
+    - The raging dragon ship
+  - Vault door in basement
+    - Brick wall, a steel door
+    - Hexagonal shaped indent
 
 ### World Building
 
