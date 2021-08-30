@@ -1,17 +1,5 @@
 # The Second City
 
-<!-- omit in toc -->
-
-## Table of Contents
-
-1. [Who](#who)
-   1. [PCs](#pcs)
-   2. [Professors](#professors)
-   3. [Arcane Eye](#arcane-eye)
-2. [What](#what)
-3. [Where](#where)
-4. [When](#when)
-
 ## Who
 
 - Larry the Ghost

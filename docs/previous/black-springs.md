@@ -1,19 +1,11 @@
-# Blacksprings
-
-- [Blacksprings](#blacksprings)
-  - [LOCATIONS](#locations)
-  - [PEOPLE](#people)
-    - [Thomas](#thomas)
-  - [GROUPS](#groups)
-  - [GENERAL IMPORTANT INFORMATION](#general-important-information)
-  - [MISCELLANEOUS](#miscellaneous)
+# Black Springs
 
 ## LOCATIONS
 
 A description of what it's like, what it's known for, and notable people in that
 town.
 
-- Blacksprings
+- Black Springs
 
 ## PEOPLE
 
