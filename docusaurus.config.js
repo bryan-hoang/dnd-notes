@@ -15,6 +15,7 @@ module.exports = {
   organizationName: 'bryan-hoang',
   // Usually your repo name.
   projectName: 'dnd-notes',
+  trailingSlash: false,
   themeConfig: {
     hideableSidebar: true,
     navbar: {
