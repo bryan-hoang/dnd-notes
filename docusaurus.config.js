@@ -17,6 +17,7 @@ module.exports = {
   projectName: 'dnd-notes',
   trailingSlash: false,
   themeConfig: {
+    defaultMode: 'dark',
     hideableSidebar: true,
     navbar: {
       title: 'D&D Notes',
