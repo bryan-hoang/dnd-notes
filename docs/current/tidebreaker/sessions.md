@@ -125,7 +125,7 @@ sidebar_position: 1
 - Potion Legend:
   - 1. Red, str/spd
   - 2. Yellow Green, Iron skin/rejuv
-  - 3. Blue, Big dumb depresso expresso
+  - 3. Blue, Big dumb truthy depresso expresso
   - 4. Clear, true sight/mind
 
 ## A Detour in Whiteridge
@@ -180,11 +180,17 @@ sidebar_position: 1
   - Heading more south, farther from the docks
 - Head into his home on the premise of needing to leave tomorrow based on
   Argent's invite
+  - There's some sort of protection according to Crowly
   - Toured the house containing a lot of expensive items
   - Lots of stuff from Rook's port
-  - Captain Fruellur is competing against Crowly
   - Gracken spotted east of prosperity
     - The raging dragon ship
+    - Hangs around Glenrock
+    - Hunt Captain Fruellu (competition)
   - Vault door in basement
     - Brick wall, a steel door
     - Hexagonal shaped indent
+
+## TBD
+
+- The next day,
