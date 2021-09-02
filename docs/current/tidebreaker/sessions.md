@@ -185,12 +185,38 @@ sidebar_position: 1
   - Lots of stuff from Rook's port
   - Gracken spotted east of prosperity
     - The raging dragon ship
-    - Hangs around Glenrock
+    - Spotted near calister
     - Hunt Captain Fruellu (competition)
   - Vault door in basement
     - Brick wall, a steel door
     - Hexagonal shaped indent
 
-## TBD
+## Preparation for the Big Heist
 
-- The next day,
+- The next day, we discuss a PLAN to rob Crowly
+- THE PLAN:
+  - We plant accelerant onto Crowly's ship
+  - Odin blinks in and sets it on fire
+  - Crowly's crew is distracted by fire
+  - Frame Frueller with a flame retardant crest
+  - We sneak into the house and steal the items
+  - ???
+  - Profit
+- Torvald gets booze for flames, others find Freuller's ship (Crane's Crescent)
+  - Get a 6 pack of Cognac
+  - Get a drawing of an emblem of the Crane's Crescent for Echichi to etch into
+    something
+- Echichi is concerned with the political climate of Prosperity
+- Torvald and Dwite head to the Jolly Roger to inform Scully of the plan
+  - They find 10 gold, POGGERS
+- We get onto The Golden Swallow (Crowly's ship)
+- Elven faye wine out of Calroden is Crowly's favourite wine
+  - Distilled Moon beans
+- Argents starts writing Crowly's bibliography
+  - Crowly aquired a vast reasure from Durumir
+  - Got a big emrald from a cursed cave
+  - Crowly's personal mirror is hexagonal shaped
+- Torvald finishes training Odin
+- Kony and Dwite play some hide and seek in preparation
+- The ship is set aflame
+- The crew members are in (joined by Echichi)
