@@ -184,7 +184,7 @@ sidebar_position: 1
   - Toured the house containing a lot of expensive items
   - Lots of stuff from Rook's port
   - Gracken spotted east of prosperity
-    - The raging dragon ship
+    - The Raging Dragon ship
     - Spotted near calister
     - Hunt Captain Fruellu (competition)
   - Vault door in basement
@@ -220,3 +220,26 @@ sidebar_position: 1
 - Kony and Dwite play some hide and seek in preparation
 - The ship is set aflame
 - The crew members are in (joined by Echichi)
+
+## The Big Heist (2021-09-11)
+
+- The group runs into some ghosts
+- Argent summons jellyfish monster and gaslights Crowly and his crew's
+  firefighting
+- A black goop goes into Kony
+- Argent easily puts out the fire on the ship
+- The group escapes
+- Crowly curses the unknown robbers.
+
+## The Heist's Aftermath (2021-09-19)
+
+- Crowly is very angry
+- The crew tries to hide the loot (successfully)
+- Loot:
+  - Big ass Emerald (size of half of a head, from jungle temple) (? GP)
+  - Crate of 4 vials of unknown substances (? GP)
+  - ~~2~~ 1 painting (~~1 landscape of Merroth (~80 GP)~~, 1 portrait (~100 GP))
+  - Bag of silverware (~90 GP)
+  - A lot of trinkets (~200 GP)
+  - Fancy wines (~600 GP)
+- Total: ~\(\le\)1,000 GP
