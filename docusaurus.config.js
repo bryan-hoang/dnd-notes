@@ -1,7 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const math = require('remark-math');
-const katex = require('rehype-katex');
+const remarkMath = require('remark-math');
+const rehypeKatex = require('rehype-katex');
 
 const projectURL = 'https://github.com/bryan-hoang/dnd-notes/';
 
@@ -72,8 +72,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: `${projectURL}edit/main/`,
-          remarkPlugins: [math],
-          rehypePlugins: [katex],
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
           routeBasePath: '/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
