@@ -34,6 +34,9 @@ sidebar_position: 1
   - Bears
   - Rats
   - Wolves
+
+## About Trees and Gallows
+
 - Gulthias Tree
   - Generalized term to refer to "evil tree"
   - Vampire, killed by stake with it left in
@@ -45,7 +48,10 @@ sidebar_position: 1
   - Rook's Port
 - Hangings
   - Happens in more civilized cities, e.g. Whiteridge, Glenrock, & Aerilon
-- Argent not a scroll depicting
+
+## Assassinating a nice professor in Whiteridge
+
+- Argent got a scroll depicting
   - Event with world serpent
   - 3 races:
     - Lizardfolk
@@ -59,6 +65,9 @@ sidebar_position: 1
 - Cyclops Ale
 - Werewolves are moved to an island sanctuary
   - **TODO: SOLVE ISSUE!**
+
+## Onto the Hunting Grounds
+
 - Cyclops
   - Encampment NW, on plateau
 - Trolls
@@ -68,6 +77,9 @@ sidebar_position: 1
 - Tyr got in argument about abandoning comrades
 - Barm
 - Found ruby that was prepped to act as a Focus
+
+## More on Trees
+
 - Vibing outside the Grove lets Dwite appreciate how it's supression of
   aggressive nature make Dwite feel like it's possible to control his
   Lycanthropy
@@ -236,10 +248,36 @@ sidebar_position: 1
 - Crowly is very angry
 - The crew tries to hide the loot (successfully)
 - Loot:
-  - Big ass Emerald (size of half of a head, from jungle temple) (? GP)
+  - Big ass uncut Emerald (size of half of a head, from jungle temple) (? GP)
   - Crate of 4 vials of unknown substances (? GP)
   - ~~2~~ 1 painting (~~1 landscape of Merroth (~80 GP)~~, 1 portrait (~100 GP))
   - Bag of silverware (~90 GP)
   - A lot of trinkets (~200 GP)
   - Fancy wines (~600 GP)
 - Total: ~\(\le\)1,000 GP
+
+## The Pump and Dump? (2021-09-28)
+
+- In Whiteridge, now trying to sell the loot
+- Argent and Dwite try to sell the rarer valuables in the affluent area (e.g.,
+  Bran)
+  - Bran values the emerald at around ~400-500 GP initially, but will need some
+    days of deeper analysis to determine a more accurate value after considering
+    the historical/religious value.
+  - Dwite confirms that Argent wears the pants in the relationship.
+- Happy and Kony try to sell the rest of the loot in the "slums", with Happy
+  acting as a "ward from attackers".
+  - They find a shop owner willing to offer them half of the crew's original
+    appraisal
+- Argent tries to find a place to do some research/learning
+  - e.g., How phoenixes resurrect, compared to similar beings such as
+    elementals.
+  - Argent is named br~~i~~yan
+- Bran tells Dwite about a sighting of Gulthias trees north of Glenrock, in
+  Kalroden
+  - Krellen's (competitor) shipment of farming tools from Whiteridge to Glenrock
+    needs to not get there
+- Argent sells the rest of the wine at market value
+- A&D plan on selling the emerald
+  - After haggling with Bran, 460 GP
+  - After haggling with a shopkeeper, 480 GP, DEAL

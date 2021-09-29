@@ -8,43 +8,44 @@ sidebar_position: 3
 
 ### The Continent Illania
 
-![Illania](/tidebreaker/illania.jpg)
+![Illania](assets/illania.jpg)
 
 ### The Gilded Coast (West)
 
-![The Gilded Coast (West)](/tidebreaker/the-gilded-coast-west.jpg)
+![The Gilded Coast (West)](assets/the-gilded-coast-west.jpg)
 
 ### The Gilded Coast (East)
 
-![The Gilded Coast (East)](/tidebreaker/the-gilded-coast-east.jpg)
+![The Gilded Coast (East)](assets/the-gilded-coast-east.jpg)
 
 ### Haven
 
-![Haven](/tidebreaker/haven.jpg)
+![Haven](assets/haven.jpg)
 
 ### Prosperity
 
-![Prosperity](/tidebreaker/prosperity.jpg)
+![Prosperity](assets/prosperity.jpg)
 
 ### Mirstone
 
-![Mirstone](/tidebreaker/mirstone.jpg)
+![Mirstone](assets/mirstone.jpg)
 
 ## Other files
 
 ### Cylinder Runes
 
 During
-[The Beginning of a Grand Adventure](sessions#the-beginning-of-a-grand-adventure),
-the crew found a [Cylinder with Runes](/tidebreaker/cylinder-runes.pdf).
+[The Beginning of a Grand Adventure](sessions.md#the-beginning-of-a-grand-adventure),
+the crew found a [Cylinder with Runes](assets/cylinder-runes.pdf).
 
 ### Potion Legend
 
 Between
-[Spying, Pet Training Arc, Facts, and Swearing](sessions#spying-pet-training-arc-facts-and-swearing)
-and [Finishing up business in Haven](sessions#finishing-up-business-in-haven),
+[Spying, Pet Training Arc, Facts, and Swearing](sessions.md#spying-pet-training-arc-facts-and-swearing)
+and
+[Finishing up business in Haven](sessions.md#finishing-up-business-in-haven),
 Haywark told offered the crew the possibility of combining
-[some potions](/tidebreaker/potion-effects.xlsx)
+[some potions](assets/potion-effects.xlsx)
 
 | Positive Potions            | Effect                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
