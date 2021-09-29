@@ -254,7 +254,7 @@ sidebar_position: 1
   - Bag of silverware (~90 GP)
   - A lot of trinkets (~200 GP)
   - Fancy wines (~600 GP)
-- Total: ~\(\le\)1,000 GP
+- Total: ~$\le$\$1,000 GP
 
 ## The Pump and Dump? (2021-09-28)
 

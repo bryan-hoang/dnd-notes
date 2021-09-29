@@ -1,5 +1,7 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 const projectURL = 'https://github.com/bryan-hoang/dnd-notes/';
 
@@ -70,6 +72,8 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: `${projectURL}edit/main/`,
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
           routeBasePath: '/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
@@ -84,4 +88,12 @@ module.exports = {
     defaultLocale: 'en-CA',
     locales: ['en-CA'],
   },
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+        'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
+  ],
 };
