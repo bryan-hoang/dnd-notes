@@ -269,10 +269,10 @@ sidebar_position: 1
   acting as a "ward from attackers".
   - They find a shop owner willing to offer them half of the crew's original
     appraisal
-- Argent tries to find a place to do some research/learning
+- Argent tries to find a place to do some research/learning at a university
   - e.g., How phoenixes resurrect, compared to similar beings such as
     elementals.
-  - Argent is named br~~i~~yan
+  - Argent is named br~~i~~yan (according to a prof he met)
 - Bran tells Dwite about a sighting of Gulthias trees north of Glenrock, in
   Kalroden
   - Krellen's (competitor) shipment of farming tools from Whiteridge to Glenrock
@@ -281,3 +281,19 @@ sidebar_position: 1
 - A&D plan on selling the emerald
   - After haggling with Bran, 460 GP
   - After haggling with a shopkeeper, 480 GP, DEAL
+
+## Session 42: Accusations and The Chase (2021-10-05)
+
+- Torvald teaches Odin how to fetch at a park in Whiteridge
+  - Odin is a very good boy
+- **Little over halfway through a moon-cycle for Dwite**
+- Argent bribes & DESTROYS dock keeper EMOTIONALLY into getting records on
+  docked ships
+  - The Flying Wolf docked at Whiteridge ~3 weeks ago (starred => watchlist)
+  - "The White Crow" carrying a considerable amount of farming tools.
+    - Sailing east to Arilon (coastal city west of Glenrock)
+  - Argent accuses the dock keeper of being a "robber"
+- Looking to sink the Snow's breach by sailing East from Whiteridge
+  - Crew is prepping for naval combat.
+- Morothian chant: "Honour in life, Glory in death"
+- Argent summons mer people
