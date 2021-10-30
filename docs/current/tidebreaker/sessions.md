@@ -296,4 +296,45 @@ sidebar_position: 1
 - Looking to sink the Snow's breach by sailing East from Whiteridge
   - Crew is prepping for naval combat.
 - Morothian chant: "Honour in life, Glory in death"
-- Argent summons mer people
+- Argent summons "mer" people
+- We ride into battle!
+
+## Session 43: Cannonballs fly (2021-10-15)
+
+- The snow's breach gets sunk!
+
+## Session 44: (2021-10-23)
+
+- Of the surviving crew members of the snow's breach, we "recruited" one of them
+  (Troy) and left behind a crew member with a wooden eye (BBEG, PauseChamp)
+- We travel back to Haven to:
+  - Investigate a silver chalice found in a chest that the Snow's Breach was
+    transporting. Argent read that it has something to do with the "summoning of
+    a dark champion".
+  - Report back to Korrak regarding the sinking of the snow's breach
+    - Kony used Korrak to scry on Lawrence again, learning that he's frustrated
+      in Glenrock.
+  - Knot is jealous of Troy.
+
+## Session 45: (2021-10-30)
+
+- Argent, Troy, and knot hang out in Haven.
+  - Have some drinks.
+- Worship of sussy god would occur in off alleys of Heritic's Alley
+  - Dwite finds out that Lilac left Haven with some purpose.
+- Torvald is looking for some sick Gucci armour for Odin (TBD).
+- Knot says Haywark said that the vials are Tears of the Keeper (From Durumir)
+- Argent does more research on Tears of the Keeper and Resurrection
+  - Durumirian religion:
+    - Magic not from their god is sus.
+    - Rebirth is hell.
+  - Talks with some believers of Lathrengar (God of light 'n stuff)
+- Heading for Calistar.
+- Aerilon
+  - Adheres to Duramir religion
+    - Uses arcane magic to destroy arcane magic.
+- Calister:
+  - Over 50% of the pop use divine magic
+  - Religion == Law
+  - Father Sebastian
+  - Happy is **very** "happy" at Calistar
