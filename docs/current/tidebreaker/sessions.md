@@ -43,11 +43,11 @@ sidebar_position: 1
   - Evil went into stake, and grew into tree due to crazed druid
 - Hangings (Gallows)
   - Cities most likely to hang people
-  - Glenrock
+  - Glennroch
   - Whiteridge
   - Rook's Port
 - Hangings
-  - Happens in more civilized cities, e.g. Whiteridge, Glenrock, & Aerilon
+  - Happens in more civilized cities, e.g. Whiteridge, Glennroch, & Aerilon
 
 ## Assassinating a nice professor in Whiteridge
 
@@ -83,7 +83,7 @@ sidebar_position: 1
 - Vibing outside the Grove lets Dwite appreciate how it's supression of
   aggressive nature make Dwite feel like it's possible to control his
   Lycanthropy
-- Meet a female Elf (Koru) in the middle of the Grove in a cottage, with
+- Meet a female druidic Elf (Koru) in the middle of the Grove in a cottage, with
   white/silver hair
 - Lawrence met Koru (few months ago), asking about Gulthias trees.
 - More info on Gulthias trees:
@@ -273,10 +273,10 @@ sidebar_position: 1
   - e.g., How phoenixes resurrect, compared to similar beings such as
     elementals.
   - Argent is named br~~i~~yan (according to a prof he met)
-- Bran tells Dwite about a sighting of Gulthias trees north of Glenrock, in
+- Bran tells Dwite about a sighting of Gulthias trees north of Glennroch, in
   Kalroden
-  - Krellen's (competitor) shipment of farming tools from Whiteridge to Glenrock
-    needs to not get there
+  - Krellen's (competitor) shipment of farming tools from Whiteridge to
+    Glennroch needs to not get there
 - Argent sells the rest of the wine at market value
 - A&D plan on selling the emerald
   - After haggling with Bran, 460 GP
@@ -291,7 +291,7 @@ sidebar_position: 1
   docked ships
   - The Flying Wolf docked at Whiteridge ~3 weeks ago (starred => watchlist)
   - "The White Crow" carrying a considerable amount of farming tools.
-    - Sailing east to Arilon (coastal city west of Glenrock)
+    - Sailing east to Arilon (coastal city west of Glennroch)
   - Argent accuses the dock keeper of being a "robber"
 - Looking to sink the Snow's breach by sailing East from Whiteridge
   - Crew is prepping for naval combat.
@@ -313,10 +313,10 @@ sidebar_position: 1
     a dark champion".
   - Report back to Korrak regarding the sinking of the snow's breach
     - Kony used Korrak to scry on Lawrence again, learning that he's frustrated
-      in Glenrock.
+      in Glennroch.
   - Knot is jealous of Troy.
 
-## Session 45: (2021-10-30)
+## Session 45: Haven hangout to Calister cruise (2021-10-30)
 
 - Argent, Troy, and knot hang out in Haven.
   - Have some drinks.
@@ -338,3 +338,40 @@ sidebar_position: 1
   - Religion == Law
   - Father Sebastian
   - Happy is **very** "happy" at Calistar
+
+## Session 46: (2021-11-09)
+
+- Checking out Saint Umil's pointed out by the guard
+  - Father Sebastian
+- Dwite has a vision:
+  - Cloaked figure stepping into area
+  - Yell out "Well then, who wants to die?"
+  - It's Lilac
+- Torvald is garnering attention (neutral/pleasantly surprised)
+- Well of Reflection has holy water from Duramir
+  - Visions TEND to be good
+- Visited statue of Uther Lightbringer in Garden of Reverence
+  - First incursion in Kalroden.
+  - Renowned military commander.
+- Reverent Rovnar
+- Torvald trains Odin to hunt small game (doesn't catch anything).
+  - Tracking
+- Divine sense on Fountain and Kony
+  - Fountain water is bland
+  - Undead following Kony
+
+## Session 47: (2022-01-10)
+
+- Saturday morning in Calister, 6 days until the next full moon. Valdris
+  consults Dwite about finding a cure in Glennroch based on the info Koru gave.
+  Order of the moon Druid is northeast of Glennroch. Reminder, Gulthais trees
+  are north of Glennroch.
+
+## Quests/Tasks
+
+- Investigating Lawrence Brantly
+- Dwite:
+
+  - Tracking Nathan/Confronting father
+
+- Investigate vision of Lilacl ... and someone/something dying
