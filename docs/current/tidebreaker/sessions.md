@@ -99,6 +99,7 @@ sidebar_position: 1
 ## Spying, Pet Training Arc, Facts, and Swearing
 
 - Kony tries to scry on Lawrence Brantly
+  - Was disappointed with farmers by Glennroch.
   - Argent draws a "likeness" to no avail
   - The warlock (Korrak) fails miserably
 - Torvald goes to a pet store to get tips on improving his pet training
@@ -195,10 +196,10 @@ sidebar_position: 1
   - There's some sort of protection according to Crowly
   - Toured the house containing a lot of expensive items
   - Lots of stuff from Rook's port
-  - Gracken spotted east of prosperity
+  - Crowly gives us a bounty: Gracken spotted east of prosperity
     - The Raging Dragon ship
-    - Spotted near calister
-    - Hunt Captain Fruellu (competition)
+    - Spotted near Calister
+    - Hunt Captain (competition)
   - Vault door in basement
     - Brick wall, a steel door
     - Hexagonal shaped indent
@@ -337,9 +338,9 @@ sidebar_position: 1
   - Over 50% of the pop use divine magic
   - Religion == Law
   - Father Sebastian
-  - Happy is **very** "happy" at Calistar
+  - Happy is **very** "happy" at Calister.
 
-## Session 46: (2021-11-09)
+## Session 46: Visions and Ghosts an- OH GOD ARE YOU BEING FOLLOWED?!?! (2021-11-09)
 
 - Checking out Saint Umil's pointed out by the guard
   - Father Sebastian
@@ -366,12 +367,29 @@ sidebar_position: 1
   consults Dwite about finding a cure in Glennroch based on the info Koru gave.
   Order of the moon Druid is northeast of Glennroch. Reminder, Gulthais trees
   are north of Glennroch.
+- Heathen's hold is piraty place in city
+- Visit Saint Umil's to talk to Father Sebastian.
+  - He's currently leading a Mass.
+  - The group looks at Father Sebastian's collection of books to read learn
+    about possessions.
+  - Conclude that the undead spirit inhabiting Kony isn't malicious.
+  - Glennroch is ruled by a "communist" government.
+- THROWING HANDS at Captain of the Raging Dragon.
+  - Throw duelling gauntlet.
 
 ## Quests/Tasks
 
-- Investigating Lawrence Brantly
+- [ ] Investigating Lawrence Brantly.
+  - Is looking for info on Gulthias trees.
 - Dwite:
 
-  - Tracking Nathan/Confronting father
+  - [ ] Tracking Nathan/Confronting father
 
-- Investigate vision of Lilacl ... and someone/something dying
+- [ ] Investigate vision of Lilacl ... and someone/something dying
+- [ ] Bran wants us to intercept a shipment heading to Glennroch.
+  - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
+    Glennroch needs to not get there.
+  - "The White Crow" carrying a considerable amount of farming tools.
+    - Sailing east to Arilon (coastal city west of Glennroch).
+- [ ] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
+      Graken.
