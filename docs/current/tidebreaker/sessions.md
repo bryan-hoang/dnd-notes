@@ -377,19 +377,95 @@ sidebar_position: 1
 - THROWING HANDS at Captain of the Raging Dragon.
   - Throw duelling gauntlet.
 
+## Session 48: Bar fight! (2022-01-17)
+
+- The crew killed the Captain of The Raging Dragon.
+- Chatted with one of surviving crew members that was mind controlled.
+  - Wasn't too helpful.
+  - Looked at Argent in a weird manner.
+
+## Session 49: A crossroads (2022-01-29)
+
+- Going to explore the Raging Dragon ship.
+  - ~~First mate~~ Captain is Jax
+  - Ship stock:
+    - cannonballs
+    - Rigging/sailing supplies
+    - 250-300 Gold in captain's quarters
+    - Another 100 in liquid assets.
+  - Agree to have Jax be indebted to us with a favour and let them have enough
+    to start off as a reformed crew.
+- When Argent and Jax shakes hands, the mind controlled crew members look at
+  Argent.
+  - Argent does it again to pirate 3, and starts talking to his patron.
+    - "What are you do-?"
+    - "no, no, no, no, no."
+    - "Why are you contacting me?" <- Different font
+- Valdris gets map of crescent island.
+- Kony starts conversing with Anastasia.
+  - She believes that "religion" is based solely on the "hate" aspect of it.
+- Butcher made an elf into meat.
+- Planning to ambush the shipment to Glennroch.
+  - Glennroch elite are called "stewards".
+- Dwite meets Stewart TBD.
+- Dwite meets Assistant TBD.
+
+## Session 50: Circles and Progress (2022-03-04)
+
+- Circle of the Moon
+  - Interested in savage nature of world.
+- Circle of the Vine
+  - Peaceful living.
+- Circle of the Plow
+  - Mortals interacting with the natural world.
+- Dwite parts way with his personal guard to head NE towards an encampment of
+  Circle of the Moon Druids.
+
+## Session 51: Jeff and a Dragon (2022-03-22)
+
+- Jeff is one of two survivors of the Caravan attack.
+- The Forger's Dragon was present to protect something on the Caravan.
+- Package from Elsabelle Magmahide.
+- Letter addressed to Stewart Rise.
+  - Wax sealed.
+  - Tools requested.
+  - Pirates met old acquaintance.
+- Mahogany Box (parcel sized).
+  - Set of ceremonial needles and daggers.
+  - For performing an arcane rite.
+- Jewellery (rings and brooches).
+
+## TBD (2022-03-26)
+
+- Dwite meets hunter in forest trying to find Circle of Moon Druids.
+  - He steals a wolf's deer to offer to the druids.
+- Argent is compelled to walk off the boat
+  - He hears a voice that feels betrayed.
+  - Becomes Aquaman.
+- Level up to 6th level!
+- Dwite found village of Lycanthropes.
+  - Needs hearthstone from hag to cure Lycanthropy.
+- Birb followed Dwite, went back to pastures.
+- Steward Talac.
+  - Vaxalleran (Dwite's temp roomamte) was murdered by werewolf attack.
+  - Dwite to investigate it.
+
 ## Quests/Tasks
 
 - [ ] Investigating Lawrence Brantly.
+  - Has weird hair in Glennroch
   - Is looking for info on Gulthias trees.
 - Dwite:
-
   - [ ] Tracking Nathan/Confronting father
-
-- [ ] Investigate vision of Lilacl ... and someone/something dying
+  - Current goal: Finding someone in Glennroch who could help him.
+    - Found out about Druid of Circles encampment NE of Glennroch.
+- [ ] Investigate vision of Lilac ... and someone/something dying
 - [ ] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
   - "The White Crow" carrying a considerable amount of farming tools.
     - Sailing east to Arilon (coastal city west of Glennroch).
-- [ ] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
+- [x] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
       Graken.
+  - [ ] Had a map of a crescent shaped island on him with a triangle on one end
+        of the island.
