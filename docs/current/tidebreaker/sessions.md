@@ -407,7 +407,7 @@ sidebar_position: 1
 - Butcher made an elf into meat.
 - Planning to ambush the shipment to Glennroch.
   - Glennroch elite are called "stewards".
-- Dwite meets Stewart TBD.
+- Dwite meets Stewart Tollic.
 - Dwite meets Assistant TBD.
 
 ## Session 50: Circles and Progress (2022-03-04)
@@ -435,7 +435,7 @@ sidebar_position: 1
   - For performing an arcane rite.
 - Jewellery (rings and brooches).
 
-## TBD (2022-03-26)
+## Theft and Deep water (2022-03-26)
 
 - Dwite meets hunter in forest trying to find Circle of Moon Druids.
   - He steals a wolf's deer to offer to the druids.
@@ -450,22 +450,70 @@ sidebar_position: 1
   - Vaxalleran (Dwite's temp roomamte) was murdered by werewolf attack.
   - Dwite to investigate it.
 
+## A Mystery and a Bounty (2022-04-21)
+
+- Vaxalleran was searching for Lanitilly Nithicket
+- The crew turned in the bounty
+- Kony is getting the gossip on the previous lord of the land
+- Argent is mingling with the upper class
+- Torvald is looking for another friendo for Odin :D.
+
+## Info (2022-04-26)
+
+- Kony continues to ask about the Stewards
+  - tolloc is the security guy.
+  - Ryze is a "cultural minister," was demoted from his position under the
+    previous "administration."
+- Torvald's inquiry into find a friendo for Odin leads to a shopkeeper that can
+  communbicate with animals
+  - Need to talk toa recommened farmhand.
+- Full moon in about 48 hours. YIKERS!
+- Dwite sends the crew a letter informing them of his situation.
+- Argent randomly talks to an ADORABLE seal :heart_eyes:.
+  - SIKE, it's a druid that was wildshaped.
+  - Part of a survey crew.
+  - Nathaniel is a druid.
+  - His friend will try to contact Argent to help inform him about Argent's
+    telepathic ability with aquatic beings.
+- Torvald Is Gonna Fly Now with Odin
+  - Fetching: Discerning what to fetch
+  - Still doesn't know when to teleport vs walk.
+- Plotting to extract Dwite out of his situation.
+  - Fake a kidnap?
+  - Fess up and get punished?
+
 ## Quests/Tasks
 
 - [ ] Investigating Lawrence Brantly.
   - Has weird hair in Glennroch
   - Is looking for info on Gulthias trees.
+  - May be looking to get back into Glennroch after rubbing the stewards the
+    wrong way.
 - Dwite:
   - [ ] Tracking Nathan/Confronting father
   - Current goal: Finding someone in Glennroch who could help him.
     - Found out about Druid of Circles encampment NE of Glennroch.
+    - Needs to get hearthstone from hag in the forest.
+  - [ ] Investigate murder of Vaxalleran
+    - Was searching for someone, specifically the daughter of an important
+      person as commanded by higher ups from Kalroden.
 - [ ] Investigate vision of Lilac ... and someone/something dying
-- [ ] Bran wants us to intercept a shipment heading to Glennroch.
+- [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
   - "The White Crow" carrying a considerable amount of farming tools.
     - Sailing east to Arilon (coastal city west of Glennroch).
+  - [ ] Inform Bran of the deed
+  - [ ] Got a letter
 - [x] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
       Graken.
+  - [x] Deliver the bounty to captain Graken.
   - [ ] Had a map of a crescent shaped island on him with a triangle on one end
         of the island.
+- Argent:
+  - [ ] Looking for the Flying Wolf
+    - Tiefling
+- Kony:
+  - [ ] Find owner of a sword who cheated him.
+- Torvald:
+  - [ ] Straight vibing.
