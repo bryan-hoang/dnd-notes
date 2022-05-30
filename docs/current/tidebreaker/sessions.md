@@ -49,6 +49,11 @@ sidebar_position: 1
 - Hangings
   - Happens in more civilized cities, e.g. Whiteridge, Glennroch, & Aerilon
 
+## The werewolf attack
+
+- Lanely and Fredrick (hald elf and lycanthrope)
+  - Lost her right hand (missing)
+
 ## Assassinating a nice professor in Whiteridge
 
 - Argent got a scroll depicting
@@ -426,6 +431,13 @@ sidebar_position: 1
 - Jeff is one of two survivors of the Caravan attack.
 - The Forger's Dragon was present to protect something on the Caravan.
 - Package from Elsabelle Magmahide.
+
+  > "Steward Ryze, here are the tools requested. As always, a pleasure doing
+  > business with you. P.S. Some pirates came to Whiteridge that I believe found
+  > an old friend of yours, unfortunately they ran afoul of the guards and
+  > haven't returned. I will keep you updated with anything more I hear about
+  > them" - Ellsebelle Magmahide
+
 - Letter addressed to Stewart Rise.
   - Wax sealed.
   - Tools requested.
@@ -452,7 +464,8 @@ sidebar_position: 1
 
 ## A Mystery and a Bounty (2022-04-21)
 
-- Vaxalleran was searching for Lanitilly Nithicket
+- Vaxalleran was searching for Lanitilly Greythicket
+  - Accompanied by companion.
 - The crew turned in the bounty
 - Kony is getting the gossip on the previous lord of the land
 - Argent is mingling with the upper class
@@ -481,6 +494,21 @@ sidebar_position: 1
 - Plotting to extract Dwite out of his situation.
   - Fake a kidnap?
   - Fess up and get punished?
+
+## TBD (2022-05-20)
+
+- Continue planning on how to break out Dwite.
+- Dwite gives an update on the investigation to Steward Talic.
+  - Apparently, the Greythicket family is very influential.
+- Argent pulls the moves on a secretary at The Watch.
+- The rest of the crew meets with Steward Ryse to attempt the blackmail.
+- Dwite realizes that Lanitilly Greythicket is most likely Lanely with Fredrick,
+  who attacked and killed Vaxalleran.
+- The crew manage to get to Dwite out of the Steward's watch.
+- Torvald goes shopping for a new Blink dog.
+  - Sike, he's gonna kermit theft?
+  - Sike, he's gonna commit to trading services?
+  - Sike, he's gonna trade?
 
 ## Quests/Tasks
 

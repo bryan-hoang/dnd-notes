@@ -82,3 +82,7 @@ Haywark told offered the crew the possibility of combining
 | Experimental Potions | Effect |
 | -------------------- | ------ |
 | Something in a vial  | ???    |
+
+## Gennroch
+
+![A map of Glennroch.](assets/glennroch.jpg)
