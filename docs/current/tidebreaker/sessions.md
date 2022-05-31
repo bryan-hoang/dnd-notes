@@ -456,10 +456,12 @@ sidebar_position: 1
   - Becomes Aquaman.
 - Level up to 6th level!
 - Dwite found village of Lycanthropes.
-  - Needs hearthstone from hag to cure Lycanthropy.
+  - Sage Luma (Head of the village)
+  - Needs heartstone from hag (Anis) to cure Lycanthropy.
+  - Sage claims to be the only one who can use the heartstone to.
 - Birb followed Dwite, went back to pastures.
 - Steward Talac.
-  - Vaxalleran (Dwite's temp roomamte) was murdered by werewolf attack.
+  - Vaxalleran (Dwite's temp roomate) was murdered by werewolf attack.
   - Dwite to investigate it.
 
 ## A Mystery and a Bounty (2022-04-21)
@@ -495,7 +497,7 @@ sidebar_position: 1
   - Fake a kidnap?
   - Fess up and get punished?
 
-## TBD (2022-05-20)
+## It's all coming together (2022-05-20)
 
 - Continue planning on how to break out Dwite.
 - Dwite gives an update on the investigation to Steward Talic.
@@ -509,6 +511,13 @@ sidebar_position: 1
   - Sike, he's gonna kermit theft?
   - Sike, he's gonna commit to trading services?
   - Sike, he's gonna trade?
+- Echichi now knows Dwite is a werewolf.
+
+## (Hag)gling (2022-05-30)
+
+- Meet with the Hag Anis.
+- Kill either the sage or the hag.
+- Kill the hag.
 
 ## Quests/Tasks
 
