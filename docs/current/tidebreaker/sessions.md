@@ -519,6 +519,21 @@ sidebar_position: 1
 - Kill either the sage or the hag.
 - Kill the hag.
 
+## Hack at a Hag (2022-06-16)
+
+- Knock out the hag.
+- Get the hearthstone.
+
+## Pack Tactics (2022-06-23)
+
+- Echiechie asks Torvald about his people.
+- Gang arrives at the village.
+- Mother of Fredrick visited the village to inquire about Fredrick a few years
+  ago.
+- Argent meets Lee (a werewolf).
+- Dwite and the gang try to fight the incarnation of Lunaris.
+- Dog dies, Dwite is free but almost dies.
+
 ## Quests/Tasks
 
 - [ ] Investigating Lawrence Brantly.
@@ -531,7 +546,7 @@ sidebar_position: 1
   - Current goal: Finding someone in Glennroch who could help him.
     - Found out about Druid of Circles encampment NE of Glennroch.
     - Needs to get hearthstone from hag in the forest.
-  - [ ] Investigate murder of Vaxalleran
+  - [x] Investigate murder of Vaxalleran
     - Was searching for someone, specifically the daughter of an important
       person as commanded by higher ups from Kalroden.
 - [ ] Investigate vision of Lilac ... and someone/something dying
