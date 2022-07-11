@@ -534,6 +534,20 @@ sidebar_position: 1
 - Dwite and the gang try to fight the incarnation of Lunaris.
 - Dog dies, Dwite is free but almost dies.
 
+## TBD (2022-07-10)
+
+- Level 7, wooo!
+- Valdris got swindled by a Hag in the past.
+  - FeelsBadMan
+  - Loss family?
+- The daggers in the lockbox addressed to Ryse and the lockbox found under the
+  tree in the Fields
+- Kony goes shopping for potions.
+  - 10GP per potion.
+- Argent is gossiping about the Gulthias Tree.
+- Main obj: Double cross steward Ryse given the lockbox that's addressed to him.
+- Long rest, woo!
+
 ## Quests/Tasks
 
 - [ ] Investigating Lawrence Brantly.
@@ -541,15 +555,6 @@ sidebar_position: 1
   - Is looking for info on Gulthias trees.
   - May be looking to get back into Glennroch after rubbing the stewards the
     wrong way.
-- Dwite:
-  - [ ] Tracking Nathan/Confronting father
-  - Current goal: Finding someone in Glennroch who could help him.
-    - Found out about Druid of Circles encampment NE of Glennroch.
-    - Needs to get hearthstone from hag in the forest.
-  - [x] Investigate murder of Vaxalleran
-    - Was searching for someone, specifically the daughter of an important
-      person as commanded by higher ups from Kalroden.
-- [ ] Investigate vision of Lilac ... and someone/something dying
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
@@ -557,11 +562,29 @@ sidebar_position: 1
     - Sailing east to Arilon (coastal city west of Glennroch).
   - [ ] Inform Bran of the deed
   - [ ] Got a letter
+    > “Steward Ryze, here are the tools requested. As always, a pleasure doing
+    > business with you. P.S. Some pirates came to Whiteridge that I believe
+    > found an old friend of yours, unfortunately they ran afoul of the guards
+    > and haven’t returned. I will keep you updated with anything more I hear
+    > about them”
+    >
+    > Ellsebelle Magmahide
 - [x] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
       Graken.
   - [x] Deliver the bounty to captain Graken.
   - [ ] Had a map of a crescent shaped island on him with a triangle on one end
         of the island.
+- Dwite:
+  - [ ] Tracking Nathan/Confronting father
+  - [ ] Investigate vision of Lilac ... and someone/something dying
+  - [x] Cure Lycanthropy
+    - Finding someone in Glennroch who could help him.
+    - Found out about Druid of Circles encampment NE of Glennroch.
+    - Needs to get hearthstone from hag in the forest.
+    - EZ Clap
+  - [x] Investigate murder of Vaxalleran
+    - Was searching for someone, specifically the daughter of an important
+      person as commanded by higher ups from Kalroden.
 - Argent:
   - [ ] Looking for the Flying Wolf
     - Tiefling
