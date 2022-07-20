@@ -20,7 +20,11 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     respectPrefersColorScheme: true,
-    hideableSidebar: true,
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
     navbar: {
       title: 'D&D Notes',
       logo: {
