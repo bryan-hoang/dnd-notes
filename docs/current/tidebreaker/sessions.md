@@ -534,7 +534,7 @@ sidebar_position: 1
 - Dwite and the gang try to fight the incarnation of Lunaris.
 - Dog dies, Dwite is free but almost dies.
 
-## TBD (2022-07-10)
+## Scheming (2022-07-10)
 
 - Level 7, wooo!
 - Valdris got swindled by a Hag in the past.
@@ -547,6 +547,49 @@ sidebar_position: 1
 - Argent is gossiping about the Gulthias Tree.
 - Main obj: Double cross steward Ryse given the lockbox that's addressed to him.
 - Long rest, woo!
+
+## All my homies hate Kevin (2022-07-14)
+
+- FIRE KEVIN
+- Kony, Argent, and Torvald are being interviewed individually.
+  - Kony:
+    - Found Gus while arriving into Glennroch from the west.
+    - Vauge pointing on map.
+    - Found a journal containing notes about an investigation.
+    - Captain is Gracken.
+  - Torvald:
+    - Found Gus near a Caravan outside Glennroch.
+    - Asked around about who Rode Gus.
+    - Gus is magical.
+  - Argent:
+    - West-ish, wasn't present when finding Gus.
+    - Heard about papers from comrades with Dwite's name on it.
+    - Unwilling to give name of captain.
+- Stewart's watch is 4 stories tall.
+- Steward Talic is convinced of Steward Ryse's "crime"
+- Dwite lays low and spares with Echiechie and discusses Girlamore with her.
+- Argent and Grog visit the Slaughterhouse.
+  - monkaGiga
+  - Human cells!?!?!
+  - Torture chambers!?!?!?!
+  - Oh Jeez Rick.
+
+## Robbing a... desk (2022-07-21)
+
+- After the feast, the crew plans how infiltrating Ryse's office goes.
+- Argent and Torvald are in.
+  - They find docs describing buying farm tools. HMMM
+  - Books that are nihilistic and consider certain mortal races as infringing
+    upon the mortal order, and thus should be "removed."
+  - They agree to cut **a locked drawer** off from the desk.
+  - They go **loud**.
+- Argent and Torvald get out, **with a third of a desk**.
+- Kony tries to distract but ends up getting "cuffed" by two guards.
+- Argent provides long range support.
+- Dwite cheers on Gus with a distraction.
+- Grand Stewart Chitus (before Staghelm) authored one of the books.
+- Lawrence Brantly shows up.
+  - monkaGiga
 
 ## Quests/Tasks
 
