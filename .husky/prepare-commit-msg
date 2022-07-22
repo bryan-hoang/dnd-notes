@@ -1,4 +1,16 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-exec < /dev/tty && git cz --hook || true
+is_rebasing() {
+  [ "$(git rev-parse --abbrev-ref HEAD)" = 'HEAD' ]
+}
+
+if ! is_rebasing; then
+  # Why `exec < /dev/tty`? By default, git hooks are not interactive. This
+  # command allows the user to use their terminal to interact with Commitizen
+  # during the hook. Why `exit 0`? If the prompt is exited pre-emptively, the
+  # commit won't be aborted.
+  #
+  # https://stackoverflow.com/a/54535749/8714233
+  (exec </dev/tty) 2>/dev/null && exec </dev/tty && cz --hook || exit 0
+fi
