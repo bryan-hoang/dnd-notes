@@ -511,6 +511,7 @@ sidebar_position: 1
   - Sike, he's gonna kermit theft?
   - Sike, he's gonna commit to trading services?
   - Sike, he's gonna trade?
+  - 600 GP!?!?!?! The fuck?
 - Echichi now knows Dwite is a werewolf.
 
 ## (Hag)gling (2022-05-30)
@@ -591,13 +592,31 @@ sidebar_position: 1
 - Lawrence Brantly shows up.
   - monkaGiga
 
+## Chaos... consumes me. (2022-07-27)
+
+- 3 official circles of the druids
+  - Moon - Wolf bois
+  - Vine - Harnomony, anthesis of Moon
+  - Plow - FARMING
+  - 4th (less well known) - Counterpart of Plow: Thorns. HMMM
+- Lawrence in Rook's port for 4-5 days, otherwise Strot
+- Lawrence is on the Night's Edge.
+- Lawrence met with Michael Volt for info on Gulthais trees.
+- Need to solve puzzle to give to Lawnrence within the next few days.
+- Argent talks to a boiling fish that likes shinies and food.
+- Kony gets a spooky dream:
+  - Feels revolted from being filthy.
+- The crew plans to get info from Ryse and druids
+- Let's split up gang!
+
 ## Quests/Tasks
 
-- [ ] Investigating Lawrence Brantly.
+- [x] Investigating Lawrence Brantly.
   - Has weird hair in Glennroch
   - Is looking for info on Gulthias trees.
   - May be looking to get back into Glennroch after rubbing the stewards the
     wrong way.
+  - [ ] Solve cylinder puzzle to get paid by Lawrence.
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
@@ -605,13 +624,13 @@ sidebar_position: 1
     - Sailing east to Arilon (coastal city west of Glennroch).
   - [ ] Inform Bran of the deed
   - [ ] Got a letter
-    > “Steward Ryze, here are the tools requested. As always, a pleasure doing
+    > "Steward Ryze, here are the tools requested. As always, a pleasure doing
     > business with you. P.S. Some pirates came to Whiteridge that I believe
     > found an old friend of yours, unfortunately they ran afoul of the guards
-    > and haven’t returned. I will keep you updated with anything more I hear
-    > about them”
+    > and haven't returned. I will keep you updated with anything more I hear
+    > about them"
     >
-    > Ellsebelle Magmahide
+    > \- Ellsebelle Magmahide
 - [x] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
       Graken.
   - [x] Deliver the bounty to captain Graken.
@@ -631,7 +650,8 @@ sidebar_position: 1
 - Argent:
   - [ ] Looking for the Flying Wolf
     - Tiefling
+  - [ ] Draw a detail diagram of how a Dwarf brews mead.
 - Kony:
-  - [ ] Find owner of a sword who cheated him.
+  - [ ] Find owner of a sword who cheated him. - Nielson
 - Torvald:
   - [ ] Straight vibing.
