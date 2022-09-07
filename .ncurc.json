@@ -1,4 +1,0 @@
-{
-  "peer": true,
-  "reject": ["rehype-katex", "remark-math"]
-}

@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json",
-  "default": true,
-  "no-duplicate-heading": false,
-  "line-length": {
-    "tables": false
-  }
+	"$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json",
+	"default": true,
+	"no-duplicate-heading": false,
+	"line-length": {
+		"tables": false
+	}
 }
