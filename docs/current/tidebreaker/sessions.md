@@ -592,7 +592,7 @@ sidebar_position: 1
 - Lawrence Brantly shows up.
   - monkaGiga
 
-## Chaos... consumes me. (2022-07-27)
+## Chaos... consumes me (2022-07-27)
 
 - 3 official circles of the druids
   - Moon - Wolf bois
@@ -608,6 +608,16 @@ sidebar_position: 1
   - Feels revolted from being filthy.
 - The crew plans to get info from Ryse and druids
 - Let's split up gang!
+
+## Cracking the code (2022-08-13)
+
+- The crew opens the cylinder. REJOICE!
+  - Treants spawn. MonkaS
+
+## Woodcutting (2022-08-27)
+
+- Before closing the cylinder, a figured with a Shepard's staff and a gash
+  through their throat. Verceal?
 
 ## Quests/Tasks
 
