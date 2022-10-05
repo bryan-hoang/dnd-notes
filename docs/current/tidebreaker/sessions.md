@@ -619,6 +619,48 @@ sidebar_position: 1
 - Before closing the cylinder, a figured with a Shepard's staff and a gash
   through their throat. Verceal?
 
+## Landing in Rook's Port
+
+- Arena is popular.
+  - Torvald is _salivating_.
+- Play about Valheim at 20:00-ish, _The Cold Night_.
+- Tried to find Lawrence by shaking down a guard at the Palace theatre, but they
+  have a grapevine.
+
+## Rook(ie)s in a Port (2022-10-4)
+
+- At the Hall of Fame in Rook's port.
+  - Get the lay of the land after nt visiting after a while.
+  - Superbious - Current arena champion for 1.5 years.
+  - Freq and success of TRAGEDY 🆙.
+  - Quay (Actress) and Julie (Carnie).
+  - Trade prince: Theodore L.
+    - Lots of accolages, but hasn't been active recently.
+  - Gilramore related stuff:
+    - More house conflict.
+- Nosebleeds:
+  - Lodging for B-list artists.
+  - INTOXICATION.
+  - COCAINE.
+  - Place to look for Brantly?
+- Back to the Boardwalk looking for Quay.
+  - Starring in Clouds over Kalroden that night as Elizabeth Pillard in the
+    Yellow Moon theatre.
+  - Matinee tomorrow evening with backstage passes.
+- Looking to sign up for the Colloseum tournament.
+  - Kony => The Gauntlet.
+  - Torvald => The Vengeance of Valheim.
+  - Disclaimer (non-legally binding): Not liable
+    - Can't shit talk Rook's port.
+    - Have to advertise on all social media platforms.
+    - Be there by 10:00, starts at 12:00 tomorrow.
+- Argent and Dwite watch the Clouds over Kalroden
+  - Snape kills Dumbledore D:
+  - Enchanters sway the crowd's mood.
+- Torvald and Kony enjoy themselves during dinner with drinks in the Dining
+  District
+  - Duramiriam Lava Lobster.
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
@@ -626,7 +668,8 @@ sidebar_position: 1
   - Is looking for info on Gulthias trees.
   - May be looking to get back into Glennroch after rubbing the stewards the
     wrong way.
-  - [ ] Solve cylinder puzzle to get paid by Lawrence.
+  - [x] Solve cylinder puzzle to get paid by Lawrence.
+  - [ ] Solved it, not to find Lawrence.
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
