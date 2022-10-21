@@ -661,6 +661,33 @@ sidebar_position: 1
   District
   - Duramiriam Lava Lobster.
 
+## _Performance_, Drugs, and Brothels (2022-10-20)
+
+- Kony, Dwite, and Torvald begin watching the _Cold Night_.
+  - Audience members snicker at the Merrothian bias from orientalism.
+  - The monarch is divinity incarnate in morothian royalty.
+  - Knights proficient in combat.
+  - Kony and Torvald were both there during the event.
+- Argent scouts out infiltrating the Palace.
+  - Seeing some opportunities with more people, while being a sneaky bugger
+    predenting to do other things.
+  - Argent tries auditioning for a play.
+    - Understudy 👀
+    - 🤔
+- Heading to the Nosebleeds
+  - Fancy brothels.
+  - Doug Dimmadome lookin' fella.
+  - Kony almost gets drugged.
+  - Steroids?
+  - Dwite takes Space Bender to gain some OBSERVATIONAL skills.
+  - Lawrence Brantly at the _Rose_, the top establishment for... 😩💧
+  - Willow x Lawrence is spicy. Asking her questions.
+    - Goth aesthetic, ooo Mr. Brantly 👀
+    - Lawrence if a nice fellow.
+    - Trust with life.
+    - Strict about women being clean from drugs for a while.
+      - One occasion after 30min, knew about the girl being on "something."
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
