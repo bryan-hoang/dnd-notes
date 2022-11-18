@@ -688,6 +688,49 @@ sidebar_position: 1
     - Strict about women being clean from drugs for a while.
       - One occasion after 30min, knew about the girl being on "something."
 
+## Discourse and Discoveries (2022-11-08)
+
+- Dicussing what to do with the Gulthias tree seed.
+  - Could hide it away in a place void of organic material.
+  - Bring it to Haywark and Druids of the Vine.
+- Dwite Divine senses while on the gud stuff.
+  - The seed's presence is getting more intense.
+  - Senses an undead and a celestial presence within Kony.
+- After a bit of back and forth, decided to sell it to Lawrence and then
+  continue to research ways to deal with it.
+- After telling Valdris about the decision:
+  - Argent tries to visit the Curator (Rowan)
+    - It's late in the night, but good thing it's an emergency 😉.
+    - ppl think Argent's dead.
+    - How, dead brother. Vengeance.
+    - Questions Rowan about the attack on the ship.
+    - Related to the trade prince.
+    - Woke up in Prosperity after the attack.
+    - Has a sister, sent off to Dragon's fang.
+    - The ship that aggressed was the Flying Wolf.
+    - Were on contract, why did they attack?
+    - Captain Tiver was the original captain during the attack.
+    - Who has Argent made a pact with? A nat 20 says... a group of nagas that
+      are psyonically entangled?!?!
+    - Prince is Theodore.
+    - Will meet again tomorrow at 20:00 to infiltrate the Palace theatre.
+    - LORE DUMP.
+  - Dwite cases the Coloseum from the outside.
+    - Grand entrance from the south for spectators.
+    - Similar on the north side.
+    - Smaller corners
+    - Main entrances for participants on the West/East.
+    - Beasts in pits, how do they get there?
+    - For entertainment vs for prestige.
+  - Torvald trains Odin to recognize familiar people.
+    - Echiechie and Donny find it severly difficult interacting with Odin.
+  - Kony talks to Torvald about something
+    - About... The Cold Night.
+    - Why was Torvald there that night on the ship?
+    - Was the worst night of Torvald's life so far, when he defected. His
+      commander will have to watch their back.
+    - FeelsStrongMan.
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
