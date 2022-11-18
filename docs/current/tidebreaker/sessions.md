@@ -731,6 +731,12 @@ sidebar_position: 1
       commander will have to watch their back.
     - FeelsStrongMan.
 
+## Colloseum fight - Part 1 (2022-11-15)
+
+- Kony => The Gauntlet
+- Torvald => The Vengeance of Valheim.
+- 140 style points for the first fight.
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
