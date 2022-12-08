@@ -737,6 +737,16 @@ sidebar_position: 1
 - Torvald => The Vengeance of Valheim.
 - 140 style points for the first fight.
 
+## Colosseum fight - Part 2 (2022-12-06)
+
+- The Wyvern from Mirstone is back, with a vengeance.
+- Dwite is the great hunter, SIGMA, from Mirstone.
+- Dwite's imaginary sister is Abigail.
+- Dwite deals the final blow with two dagger blows dealing the exact amount of
+  damage needed to kill the Wyvern.
+- 165 style points babyyyy.
+- The crew gets royalties rights to SIGMA related merchandise and symbolism.
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
