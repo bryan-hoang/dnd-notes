@@ -48,7 +48,7 @@
 		"@commitlint/cli": "17.3.0",
 		"@commitlint/config-conventional": "17.3.0",
 		"@docusaurus/module-type-aliases": "2.2.0",
-		"@eslint/eslintrc": "1.4.0",
+		"@eslint/eslintrc": "1.4.1",
 		"@tsconfig/docusaurus": "1.0.6",
 		"@tsconfig/node14": "1.0.3",
 		"@types/eslint": "8.4.10",
