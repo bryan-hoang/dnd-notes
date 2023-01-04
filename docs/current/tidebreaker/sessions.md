@@ -747,6 +747,28 @@ sidebar_position: 1
 - 165 style points babyyyy.
 - The crew gets royalties rights to SIGMA related merchandise and symbolism.
 
+## Spa day, Aqua-man, Father and Son, a seed for a student loan, and _The Don_ (2023-01-03)
+
+- 5 hours and a short rest later..., the Lawrence stopped by and wanted to see
+  the cylinder open with his own eyes.
+  - Open it at the Rook when it's empty?
+- Argent has an appointment with his father... Darth Vader?
+- Kony's drugs and Morothian banner were confiscated.
+  - Torvald causes a scene to yoink a trident.
+    - A fire to distract, but the guards catch him before he can get the
+      Trident. He still nabs the banner.
+- Argent's meeting with this father involves a grand show of making some guards
+  go down a slide of icy stairs.
+  - Theodore Elecian - Argent's Father
+  - Heartwarming reunion <3.
+  - The plotting begins...?
+  - CELLLLLLLLE-BRA-TION TIME COME ON!
+- Meeting w/ Lawrence at 04:30 to open the cylinder at The Rook.
+  - EZ Clap.
+  - Lawrence has alot of magical stuff to deal with the Gulthias tree.
+- Meeting the LARGE two headed orge called Don Han'Cho.
+  - The "Happy" police.
+
 ## Quests/Tasks
 
 - [x] Investigating Lawrence Brantly.
