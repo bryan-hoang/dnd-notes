@@ -86,3 +86,9 @@ Haywark told offered the crew the possibility of combining
 ## Gennroch
 
 ![A map of Glennroch.](assets/glennroch.jpg)
+
+## Rooksport
+
+Las Vegas meets Broadway!
+
+![A map of Rooksport](assets/rooksport.jpg)
