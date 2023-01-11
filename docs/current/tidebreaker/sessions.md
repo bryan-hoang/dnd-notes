@@ -320,6 +320,7 @@ sidebar_position: 1
   - Report back to Korrak regarding the sinking of the snow's breach
     - Kony used Korrak to scry on Lawrence again, learning that he's frustrated
       in Glennroch.
+    - Korrak gave Kony a black spot as an exchange.
   - Knot is jealous of Troy.
 
 ## Session 45: Haven hangout to Calister cruise (2021-10-30)
@@ -763,11 +764,35 @@ sidebar_position: 1
   - Heartwarming reunion <3.
   - The plotting begins...?
   - CELLLLLLLLE-BRA-TION TIME COME ON!
+  - Sister Pearl is hiding as an actor, Miss
 - Meeting w/ Lawrence at 04:30 to open the cylinder at The Rook.
   - EZ Clap.
   - Lawrence has alot of magical stuff to deal with the Gulthias tree.
 - Meeting the LARGE two headed orge called Don Han'Cho.
   - The "Happy" police.
+
+## Secret Police, the IRS, Piss Water, and a Shwopdy do (2023-01-09)
+
+- The captain of the ship that attacked Argent, the Flying Wolf, was Captain
+  Tither.
+  - The Don knew them beforehand after they paid off their debts.
+  - Tither was found to have been died by sucide after swallowing their own
+    tongue in Dragon's Fang. Black spot on their right hand, maybe necrosis...
+  - Cloven marking on body, maybe unrelated to death.
+  - Dragon's Fang is very difficult to get into, hence the quick attribution to
+    suicide.
+  - Look for Johahn Glee, a lime green Tiefling with Stag horns that was an ex
+    crewmate.
+- The crew learns that The Trade Prince, Theodore, is Argent's Father :O. His
+  brother's name is Halcyon.
+- Johahn might be staying at the Rotten Apple.
+- Argent explains his reasoning to the team.
+- Dwite drinks Piss Water (German) at the Blank Canvas.
+- Given 300 gold from the Captain to celebrate the completion of the cylinder
+  quest!
+- Thinking about busting an illegal operation for the Don.
+- Meet hunchback women (?), Deliala
+- Dwite swaps coins due to keep the Strot ones. INTERESTING.
 
 ## Quests/Tasks
 
