@@ -776,7 +776,7 @@ sidebar_position: 1
 - The captain of the ship that attacked Argent, the Flying Wolf, was Captain
   Tither.
   - The Don knew them beforehand after they paid off their debts.
-  - Tither was found to have been died by sucide after swallowing their own
+  - Tither was found to have been died by suicide after swallowing their own
     tongue in Dragon's Fang. Black spot on their right hand, maybe necrosis...
   - Cloven marking on body, maybe unrelated to death.
   - Dragon's Fang is very difficult to get into, hence the quick attribution to
@@ -793,6 +793,14 @@ sidebar_position: 1
 - Thinking about busting an illegal operation for the Don.
 - Meet hunchback women (?), Deliala
 - Dwite swaps coins due to keep the Strot ones. INTERESTING.
+
+## Chasing Johahn (2022-01-17)
+
+- Interrogating Johahn.
+  - Lost memory under command of Captain Tither.
+  - Johahn is very good at smelling.
+  - Trying to bring him to Haven to recall memories.
+  - Galverax is Johahn's Daddy.
 
 ## Quests/Tasks
 
