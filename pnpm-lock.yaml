@@ -23,7 +23,7 @@ specifiers:
   cz-conventional-changelog: 3.3.0
   eslint: 8.32.0
   eslint-config-airbnb-base: 15.0.0
-  eslint-config-prettier: 8.5.0
+  eslint-config-prettier: 8.6.0
   eslint-plugin-import: 2.26.0
   eslint-plugin-prettier: 4.2.1
   file-loader: 6.2.0
@@ -69,9 +69,9 @@ devDependencies:
   cz-conventional-changelog: 3.3.0
   eslint: 8.32.0
   eslint-config-airbnb-base: 15.0.0_kornzrmzxylufiu5zotgc4cisa
-  eslint-config-prettier: 8.5.0_eslint@8.32.0
+  eslint-config-prettier: 8.6.0_eslint@8.32.0
   eslint-plugin-import: 2.26.0_eslint@8.32.0
-  eslint-plugin-prettier: 4.2.1_uzdlkkftb3f76fa4on6dnxrnyi
+  eslint-plugin-prettier: 4.2.1_cn4lalcyadplruoxa5mhp7j3dq
   husky: 8.0.3
   lint-staged: 13.1.0
   markdownlint-cli: 0.32.2
@@ -5044,8 +5044,8 @@ packages:
       semver: 6.3.0
     dev: true
 
-  /eslint-config-prettier/8.5.0_eslint@8.32.0:
-    resolution: {integrity: sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==}
+  /eslint-config-prettier/8.6.0_eslint@8.32.0:
+    resolution: {integrity: sha512-bAF0eLpLVqP5oEVUFKpMA+NnRFICwn9X8B5jrR9FcqnYBuPbqWEjTEspPWMj5ye6czoSLDweCzSo3Ko7gGrZaA==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
@@ -5117,7 +5117,7 @@ packages:
       - supports-color
     dev: true
 
-  /eslint-plugin-prettier/4.2.1_uzdlkkftb3f76fa4on6dnxrnyi:
+  /eslint-plugin-prettier/4.2.1_cn4lalcyadplruoxa5mhp7j3dq:
     resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
     engines: {node: '>=12.0.0'}
     peerDependencies:
@@ -5129,7 +5129,7 @@ packages:
         optional: true
     dependencies:
       eslint: 8.32.0
-      eslint-config-prettier: 8.5.0_eslint@8.32.0
+      eslint-config-prettier: 8.6.0_eslint@8.32.0
       prettier: 2.8.3
       prettier-linter-helpers: 1.0.0
     dev: true
