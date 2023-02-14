@@ -794,13 +794,53 @@ sidebar_position: 1
 - Meet hunchback women (?), Deliala
 - Dwite swaps coins due to keep the Strot ones. INTERESTING.
 
-## Chasing Johahn (2022-01-17)
+## Chasing Johahn (2023-01-17)
 
 - Interrogating Johahn.
   - Lost memory under command of Captain Tither.
   - Johahn is very good at smelling.
   - Trying to bring him to Haven to recall memories.
   - Galverax is Johahn's Daddy.
+
+## Gambling is for the ~~cool~~ sus kids (2023-02-1)
+
+- Basically solved the BIGGEST illegal gambling gig.
+
+## Fools, Nerds, Amnesia, and Revelation (2023-02-13)
+
+- Before heading to Haven, the crew attempts to to get work that'll lead them
+  west.
+- Kony aims to find work through his knowledge of Morratian lore at the
+  boardwalk.
+- Daniel convinces Dwite to sign some papers to talk about the Colosseum in
+  Rook's Port after big notorioty fights.
+- Argent visit's TBD and learns that the Colosseum is running out of things to
+  fight. Investigate a person who has done research in this area.
+  - The crew killing thw Wyvern was.. unplanned. The plan was for the brew to
+    get dunked on by the Wyvern.
+- Torvald is trying to contact Quay on Echiechie's behalf.
+  - He infiltrates the perimieter to get an audien with Quay.
+  - Torvald hands the latter to Quay, where they refer to Echiechie as 'chie
+    chie'.
+- Kony visits a playwright to try and sell RARE LORE from Merroth.
+  - They're a massive NERRRRRD.
+  - Morrotian King is declining in health. Oh no.
+- Johann joins the crew on the Tidebreaker.
+  - Says the crew slemms.. different.
+- The crew arrive at Haven.
+- Kony and Argent visit Korrak to inquire about the mark between Kony and
+  Captain Tiver
+  - MAUL - kill them.
+- Dwite asks about Lilac.
+  - Ilgoth siblings
+    - Mind magic, memory manipulation, Johann?
+    - Two tiefling siblings, baby blue, Zygon, Gothgah. \*
+    - Memory loss is due to holy magic. HOLY \*\*\*\*.
+    - Modify memory.
+    - Philosophical decision with Torvald, decides to go with it.
+- Torvald goes for a drink with Johann. It gets very philosophical.
+- Did Korrak send the hit on Argent?
+- Why was erasing Johann's memories beneficial to him?
 
 ## Quests/Tasks
 
@@ -810,7 +850,8 @@ sidebar_position: 1
   - May be looking to get back into Glennroch after rubbing the stewards the
     wrong way.
   - [x] Solve cylinder puzzle to get paid by Lawrence.
-  - [ ] Solved it, not to find Lawrence.
+  - [x] Solved it, not to find Lawrence.
+  - [x] Give the seed/cylinder to Lawrence and make $$.
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
@@ -830,6 +871,7 @@ sidebar_position: 1
   - [x] Deliver the bounty to captain Graken.
   - [ ] Had a map of a crescent shaped island on him with a triangle on one end
         of the island.
+- [ ] Figure out the link between the marks on Kony's hand and the Tiver's hand.
 - Dwite:
   - [ ] Tracking Nathan/Confronting father
   - [ ] Investigate vision of Lilac ... and someone/something dying
@@ -844,8 +886,10 @@ sidebar_position: 1
 - Argent:
   - [ ] Looking for the Flying Wolf
     - Tiefling
+    - [ ] Learn more about Johann, where infernals were involved.
   - [ ] Draw a detail diagram of how a Dwarf brews mead.
 - Kony:
   - [ ] Find owner of a sword who cheated him. - Nielson
+  - [ ] Get... unpossessed?
 - Torvald:
   - [ ] Straight vibing.
