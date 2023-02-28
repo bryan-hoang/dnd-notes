@@ -838,9 +838,32 @@ sidebar_position: 1
     - Memory loss is due to holy magic. HOLY \*\*\*\*.
     - Modify memory.
     - Philosophical decision with Torvald, decides to go with it.
-- Torvald goes for a drink with Johann. It gets very philosophical.
+- Torvald goes for a drink with Johann. It gets philosophical.
 - Did Korrak send the hit on Argent?
-- Why was erasing Johann's memories beneficial to him?
+- Why was erasing Johann's memories beneficial to them?
+
+## Fiends, assassination, chains, and B L O B (2022-02-19)
+
+## Holy orders, marriage invitation, shopping, and scrying (2022-02-27)
+
+- Discussion w/ Haywark leading to understanding that the pacts where more
+  physical in nature than usual.
+- Lilac found the twins agreeable. Woo!
+  - F A M I L Y. Lost them.
+  - Headed to Tally, family grave.
+- Short haired Female half elf, Midreal.
+  - Invitation to marriage in 5-6 months between Percival Eagleshield and
+    Elizabeth Hawkblade.
+  - Signed Nathan Stilts.
+- Kony and Argent go to Jeremiah's Rumenations.
+  - Massive pony tail.
+  - The other divination person in Haven.
+  - Has moral objections to Divining.
+  - Has pretty good at it back in the day.
+  - Kony & Argent pay Jeremiah. Kony asks to scry on the King of Morroth.
+    - They've lost a lot of military battles.
+  - Kony was member of Royal guard.
+  - Argent bought a scrying mirror. SPOOKY!
 
 ## Quests/Tasks
 
@@ -866,6 +889,9 @@ sidebar_position: 1
     > about them"
     >
     > \- Ellsebelle Magmahide
+  - [ ] Find buried treasure.
+- [ ] Help Johann. Currently unconcious from memory procedure.
+  - Potentially find holy relic to cleanse Johann of his curse.
 - [x] Bounty from Crowly on the Captain of "The Raging Dragon", paid by captain
       Graken.
   - [x] Deliver the bounty to captain Graken.
@@ -886,8 +912,9 @@ sidebar_position: 1
 - Argent:
   - [ ] Looking for the Flying Wolf
     - Tiefling
-    - [ ] Learn more about Johann, where infernals were involved.
+    - [x] Learn more about Johann, where infernals were involved.
   - [ ] Draw a detail diagram of how a Dwarf brews mead.
+  - [ ] Find and... KO Captain Xavius.
 - Kony:
   - [ ] Find owner of a sword who cheated him. - Nielson
   - [ ] Get... unpossessed?
