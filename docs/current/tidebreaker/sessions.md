@@ -67,6 +67,7 @@ sidebar_position: 1
 - Document's Kony got from forger in Whiteridge (**Fullgram Flaskhide**) got a
   job to repair a gold/silver sword (Stormbringer). Name for the job was
   deliberately removed???
+  - Had an... altercation with the fellow.
 - Cyclops Ale
 - Werewolves are moved to an island sanctuary
   - **TODO: SOLVE ISSUE!**
@@ -842,9 +843,9 @@ sidebar_position: 1
 - Did Korrak send the hit on Argent?
 - Why was erasing Johann's memories beneficial to them?
 
-## Fiends, assassination, chains, and B L O B (2022-02-19)
+## Fiends, assassination, chains, and B L O B (2023-02-19)
 
-## Holy orders, marriage invitation, shopping, and scrying (2022-02-27)
+## Holy orders, marriage invitation, shopping, and scrying (2023-02-27)
 
 - Discussion w/ Haywark leading to understanding that the pacts where more
   physical in nature than usual.
@@ -864,6 +865,40 @@ sidebar_position: 1
     - They've lost a lot of military battles.
   - Kony was member of Royal guard.
   - Argent bought a scrying mirror. SPOOKY!
+- Dwite receives an invitation to Percival's wedding with Grace.
+- Heading for Whiteridge.
+
+## Armour shopping & pleasant interrogations (2023-03-13)
+
+- Vikings are attacking
+  - King's landings
+  - Galadoran
+- Dwite talks to the others about his wedding invitation.
+- Argent has a vision.
+  - Envisioned the blob.
+  - Sketched a man in fire.
+    - ENHANCE.
+  - Asked patron about it.
+  - Search for a person named Neilson in Calistar
+  - Kill them, get book.
+- Arrive at Whiteridge.
+- Visiting Bran's shop to turn in quest.
+  - Can sell acquired loot (farming tools)
+  - Armourer: Jendel Strongwing. Newer armourer.
+  - Bran asked about altercation with Fullgram flaskhide.
+  - All work orders need to be tracked by the Forger's guild.
+  - Elsabellle Magmahide inquiry.
+  - Valheim's smithing is comparable to Dwarvern smithing.
+  - Torvald has a vision of the Cold Night after observing a Viking spear. Higen
+    O.O
+- Armour shopping spree w/ Kony and Dwite at Jendel's armoury.
+  - Kony gets Chain mail
+  - Dwite get's +1 Studded Leather and +1 Shield (made to order).
+- Argent confronts Elsabelle Magmahide about the letter.
+  - Accusations are thrown around.
+  - **CYLINDER LORE!**
+  - Ryse's former mentor and former Grand Stewart Chitus.
+  - Vercel worked against Chitus, with the Circle of Thorns.
 
 ## Quests/Tasks
 
@@ -880,7 +915,7 @@ sidebar_position: 1
     Glennroch needs to not get there.
   - "The White Crow" carrying a considerable amount of farming tools.
     - Sailing east to Arilon (coastal city west of Glennroch).
-  - [ ] Inform Bran of the deed
+  - [x] Inform Bran of the deed
   - [ ] Got a letter
     > "Steward Ryze, here are the tools requested. As always, a pleasure doing
     > business with you. P.S. Some pirates came to Whiteridge that I believe
