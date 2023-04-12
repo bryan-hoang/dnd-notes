@@ -845,6 +845,8 @@ sidebar_position: 1
 
 ## Fiends, assassination, chains, and B L O B (2023-02-19)
 
+- Learned about Captain _REDACTED_.
+
 ## Holy orders, marriage invitation, shopping, and scrying (2023-02-27)
 
 - Discussion w/ Haywark leading to understanding that the pacts where more
@@ -900,16 +902,38 @@ sidebar_position: 1
   - Ryse's former mentor and former Grand Stewart Chitus.
   - Vercel worked against Chitus, with the Circle of Thorns.
 
+## Tiz the Smurf, Sucker Punch, BAC Buoyancy, & Treasure map (2023-04-11)
+
+- Tiz wants us to track down how _blued_ his house.
+  - Asked about dread Captain Xavius person. Was told to not mention their name
+    by Captain Scully's crew member.
+- Visit Crowly
+  - Crowly wants us to deliver something to Marquis Prelard.
+  - Should be 3 days from now.
+  - Captain Fruller was accosted by vikings.
+  - Talks to Torvald. If Crowly was poor, his lackys may do some sus things.
+    HMMM
+  - Wants us to track down what we stole.
+    - Uriel Gutero, person on list of stolen things. Was a person Crowly got an
+      item off of.
+  - Kony punches Crowly involuntarily. Due to the ghost inhabiting him?
+- Visit Scully.
+  - We try waking him up.
+  - Asking about the werewolves.
+  - Scouting party was sent after the most recent full moon. Haven't returned.
+  - 1 million gold for a person who can turn into a ship on the full moon.
+  - 2000g for report on werewolves, 300g per returned crew mate.
+- Meeting first mate.
+  - Has a **BIG OL' DOME**.
+  - Asking about dread Captain Xavius.
+  - Mutinied against Scully 8 years ago.
+    - Scully so much booze, that we became more buoyant then water and swam off
+      the island and marooned Xavius with an **UNO REVERSE**.
+    - Betrayer's rock. Can't take someone from there, need to have vengeance in
+      your heart?
+
 ## Quests/Tasks
 
-- [x] Investigating Lawrence Brantly.
-  - Has weird hair in Glennroch
-  - Is looking for info on Gulthias trees.
-  - May be looking to get back into Glennroch after rubbing the stewards the
-    wrong way.
-  - [x] Solve cylinder puzzle to get paid by Lawrence.
-  - [x] Solved it, not to find Lawrence.
-  - [x] Give the seed/cylinder to Lawrence and make $$.
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
   - Krellen's (smith, competitor) shipment of farming tools from Whiteridge to
     Glennroch needs to not get there.
@@ -955,3 +979,11 @@ sidebar_position: 1
   - [ ] Get... unpossessed?
 - Torvald:
   - [ ] Straight vibing.
+- [x] Investigating Lawrence Brantly.
+  - Has weird hair in Glennroch
+  - Is looking for info on Gulthias trees.
+  - May be looking to get back into Glennroch after rubbing the stewards the
+    wrong way.
+  - [x] Solve cylinder puzzle to get paid by Lawrence.
+  - [x] Solved it, not to find Lawrence.
+  - [x] Give the seed/cylinder to Lawrence and make $$.
