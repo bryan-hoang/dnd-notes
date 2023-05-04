@@ -833,12 +833,13 @@ sidebar_position: 1
   Captain Tiver
   - MAUL - kill them.
 - Dwite asks about Lilac.
-  - Ilgoth siblings
-    - Mind magic, memory manipulation, Johann?
-    - Two tiefling siblings, baby blue, Zygon, Gothgah. \*
-    - Memory loss is due to holy magic. HOLY \*\*\*\*.
-    - Modify memory.
-    - Philosophical decision with Torvald, decides to go with it.
+  - Strot?
+- Ilgoth siblings
+  - Mind magic, memory manipulation, Johann?
+  - Two tiefling siblings, baby blue, Zygon, Gothgah. \*
+  - Memory loss is due to holy magic. HOLY \*\*\*\*.
+  - Modify memory.
+  - Philosophical decision with Torvald, decides to go with it.
 - Torvald goes for a drink with Johann. It gets philosophical.
 - Did Korrak send the hit on Argent?
 - Why was erasing Johann's memories beneficial to them?
@@ -931,6 +932,38 @@ sidebar_position: 1
       the island and marooned Xavius with an **UNO REVERSE**.
     - Betrayer's rock. Can't take someone from there, need to have vengeance in
       your heart?
+
+## Mind Flayer Monday (2023-04-24)
+
+- See shipwreck on island, check it out and start exploring
+- Find body with hollowed out skull. "Oh no, Mind Flayers" :squid:
+- Then find werewolves killing catatonic Mind Flayers. The plot thickens.
+- The map isn't a treasure map, it's a home base!
+- To prove trust, kill some starving Mind Flayers.
+- Now we start distrusting the werewolves.... why?
+- Decide to attack the home base while werewolves distract.
+- Fight a slowly dying elder brain wearing a pirate hat at our disgust, horror,
+  and confusion.
+- Some other funny shenanigans later and we defeat the Mind Flayer colony.
+  Huzzah!
+
+## Ancient civilization, calamari, wholesome hostage situation (2023-05-03)
+
+- Discover a gem in the temple.
+- Want to try and bring the werewolves to the Circle of the Moon after the next
+  full moon.
+- Dwite & Torvald lend them 1 000 g each and plan to return to them after the
+  next full moon.
+- Heading west towards Tally.
+- Argent & Kony plan on scrying on Elomos Everwind.
+  - Kony lends Argent his sword with the inscription:
+    > "A sea of my blood for a drop of theirs, a copper thingy for a dragon
+    > scale."
+  - In a bedroom, person with whipped arms is imprisoned, apparently in
+    Gilramore?
+- The coins from strot make is slightly veer towards the city as we pass by it.
+- Valdris & Torvald have a heart to heart.
+  - COMBAT TIME
 
 ## Quests/Tasks
 
