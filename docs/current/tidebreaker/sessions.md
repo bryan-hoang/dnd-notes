@@ -965,6 +965,13 @@ sidebar_position: 1
 - Valdris & Torvald have a heart to heart.
   - COMBAT TIME
 
+## Naval battle against vikings (2023-05-15)
+
+- Ship health: 69. Nice.
+- Torvald: Call the demon of Ashborough.
+- Spear of Misfulheim.
+- Axe of... being cold.
+
 ## Quests/Tasks
 
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
