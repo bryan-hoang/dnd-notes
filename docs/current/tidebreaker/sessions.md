@@ -972,6 +972,40 @@ sidebar_position: 1
 - Spear of Misfulheim.
 - Axe of... being cold.
 
+## Tallying up tasks in Tally (2023-05-31)
+
+- Land in the Feight Yard in Tally.
+- Fire in Duty Free.
+  - Hobgoblin Foreman Bom.
+  - Voluntold us to help put out the files from the viking raid.
+  - Helped out putting out the fires for a few hours w/ Grog.
+  - Asked about Marquis Gabriel Prelard. In the Embassy.
+- Vandelay: Trade Prince of Tally.
+- Tally had an agreement w/ Merroth to get warnings about attacks from Vikings.
+  - No warning this time though... HMMM.
+- Headed to the Embassy.
+  - Sections of the building dedicated to regions. e.g., Gilramore, Merroth
+  - Dwite and Kony try to stop people from trying to harass Prelard, but get
+    mobbed instead.
+  - It's Prelard's birthday today! Awww <3
+  - It's likely an attempt by Crowly to gain favor to get more deals/contracts
+    to gain influence in Tally.
+  - The viking's attack patterns seemed odd (e.g., targeting places that aren't
+    strategic.)
+- Kony, Torvald, & Dwight go to The Post to send some letters.
+  - It's busy af there.
+  - Sassy wedding cards, Dwite opts for simple pen and paper.
+  - Kony and Dwite send their letters.
+  - Torvald sends a letter given to him from Valdris.
+  - Torvald purchases the most expensive birthday card (Crab Rave)
+- Argent interrogates Signey.
+  - Hygen is afraid of Ragnorok!?!?
+  - She is willing to trade info about the staff for Deadeye's real name.
+  - It's... **heated**.
+- Torvald freezes a pond with his new axe and goes ice skating. Woo!
+
+- **Note:** THE place to upgrade the Tidebreaker.
+
 ## Quests/Tasks
 
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
@@ -1000,6 +1034,9 @@ sidebar_position: 1
 - Dwite:
   - [ ] Tracking Nathan/Confronting father
   - [ ] Investigate vision of Lilac ... and someone/something dying
+    - [ ] Track down visit to Lilac's family grave in Tally.
+  - [ ] Deal with invitation to Grace and Percival's wedding.
+    - [ ] Respond to invitation?
   - [x] Cure Lycanthropy
     - Finding someone in Glennroch who could help him.
     - Found out about Druid of Circles encampment NE of Glennroch.
