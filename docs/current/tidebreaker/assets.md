@@ -96,3 +96,18 @@ Las Vegas meets Broadway!
 ## Tally
 
 ![A map of Tally](assets/tally.jpg)
+
+### Ship upgrades 🚢
+
+Currency: Gold pieces.
+
+- Larger Sails – 4,000. Boat speed increased by 1
+
+- Reinforced Hull – 6,000. Boat HP increased by 40 HP
+
+- Improved weapons – 2,000 Boat STR +2
+
+- Streamlined – 2,000 Boat Dex +2
+
+- Ship Rehaul – 20,000 Boat upgraded to next class of ship. All stats increased
+  and hit die increased to d10. Fore cannon added.
