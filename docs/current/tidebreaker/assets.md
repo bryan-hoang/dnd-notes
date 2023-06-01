@@ -95,4 +95,4 @@ Las Vegas meets Broadway!
 
 ## Tally
 
-[A map of Tally](assets/tally.jpg)
+![A map of Tally](assets/tally.jpg)
