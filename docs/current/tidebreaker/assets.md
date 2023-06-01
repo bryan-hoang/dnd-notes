@@ -92,3 +92,7 @@ Haywark told offered the crew the possibility of combining
 Las Vegas meets Broadway!
 
 ![A map of Rooksport](assets/rooksport.jpg)
+
+## Tally
+
+[A map of Tally](assets/tally.jpg)
