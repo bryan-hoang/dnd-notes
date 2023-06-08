@@ -51,7 +51,7 @@
 		"@eslint/eslintrc": "2.0.3",
 		"@tsconfig/docusaurus": "1.0.7",
 		"@tsconfig/node14": "1.0.3",
-		"@types/eslint": "8.40.0",
+		"@types/eslint": "8.40.1",
 		"@types/react": "18.2.9",
 		"@types/react-helmet": "6.1.6",
 		"@types/react-router-dom": "5.3.3",
