@@ -1006,6 +1006,31 @@ sidebar_position: 1
 
 - **Note:** THE place to upgrade the Tidebreaker.
 
+## The Nicest Trade Deals in the History of Trade Deals (2023-06-07)
+
+- Short rested into the next day to prep for negotiating the transfer of Signey
+  to the city as a prisoner.
+- We meet Vandelay to begin the negotiations
+  - Discuss how we'll deal with the loot from the battles.
+    - Grace period of 3-4 months. During the period, if we receive a request, we
+      have one month to return the artifacts to Tally. They'll hold the
+      artifacts for 2 weeks during their investigations.
+  - Can give them a receipt of damages to get compensated.
+  - Cheque for 6900 gold for Signey.
+  - 10 hours to loot ships.
+- Offer from Marquis Prelard to escort him to Merroth.
+  - Tomorrow morning.
+- Dwite tries to follow Lilac's trail to his family graveyard.
+  - Rell blackwillow & Rowan blackwillow
+    - Flint Blackwillow
+    - According to old woman, Flint's wife went 'insane' and tried killing their
+      own son. Flint had to intervene.
+    - Divine sense: "smells" a strong undead presence, bloody. Like that time
+      Johan.
+    - Lilac swore his oath right after the incident, and reaffirmed it recently.
+    - Shipment of goods from Strott before incident occurred. Only Strott
+      currency to be given to Strott.
+
 ## Quests/Tasks
 
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
