@@ -66,8 +66,8 @@ devDependencies:
     specifier: 2.0.0
     version: 2.0.0
   '@tsconfig/node14':
-    specifier: 1.0.3
-    version: 1.0.3
+    specifier: 14.1.0
+    version: 14.1.0
   '@types/eslint':
     specifier: 8.40.2
     version: 8.40.2
@@ -3041,6 +3041,10 @@ packages:
 
   /@tsconfig/node14@1.0.3:
     resolution: {integrity: sha512-ysT8mhdixWK6Hw3i1V2AeRqZ5WfXg1G43mqoYlM2nc6388Fq5jcXyr5mRsqViLx/GJYdoL0bfXD8nmF+Zn/Iow==}
+    dev: true
+
+  /@tsconfig/node14@14.1.0:
+    resolution: {integrity: sha512-VmsCG04YR58ciHBeJKBDNMWWfYbyP8FekWVuTlpstaUPlat1D0x/tXzkWP7yCMU0eSz9V4OZU0LBWTFJ3xZf6w==}
     dev: true
 
   /@tsconfig/node16@1.0.3:
