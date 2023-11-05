@@ -407,7 +407,7 @@ sidebar_position: 1
   - Argent does it again to pirate 3, and starts talking to his patron.
     - "What are you do-?"
     - "no, no, no, no, no."
-    - "Why are you contacting me?" <- Different font
+    - "Why are you contacting me?"
 - Valdris gets map of crescent island.
 - Kony starts conversing with Anastasia.
   - She believes that "religion" is based solely on the "hate" aspect of it.
@@ -762,7 +762,7 @@ sidebar_position: 1
 - Argent's meeting with this father involves a grand show of making some guards
   go down a slide of icy stairs.
   - Theodore Elecian - Argent's Father
-  - Heartwarming reunion <3.
+  - Heartwarming reunion \<3.
   - The plotting begins...?
   - CELLLLLLLLE-BRA-TION TIME COME ON!
   - Sister Pearl is hiding as an actor, Miss
@@ -987,7 +987,7 @@ sidebar_position: 1
   - Sections of the building dedicated to regions. e.g., Gilramore, Merroth
   - Dwite and Kony try to stop people from trying to harass Prelard, but get
     mobbed instead.
-  - It's Prelard's birthday today! Awww <3
+  - It's Prelard's birthday today! Awww \<3
   - It's likely an attempt by Crowly to gain favor to get more deals/contracts
     to gain influence in Tally.
   - The viking's attack patterns seemed odd (e.g., targeting places that aren't
