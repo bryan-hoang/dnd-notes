@@ -1,9 +1,4 @@
 {
-	"extends": "@tsconfig/docusaurus/tsconfig.json",
-	"compilerOptions": {
-		"paths": {
-			"@site/*": ["./*"]
-		}
-	},
-	"include": ["src/"]
+	"extends": "astro/tsconfigs/strictest",
+	"include": ["*.js", ".*.cjs", "**/*.ts"]
 }

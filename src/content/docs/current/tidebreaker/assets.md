@@ -1,38 +1,36 @@
 ---
-sidebar_position: 3
+title: 'Tidebreaker: Assets'
 ---
-
-# Assets
 
 ## Maps
 
 ### The Continent Illania
 
-![Illania](assets/illania.jpg)
+![Illania](../../../../assets/illania.jpg)
 
 ### The Gilded Coast (West)
 
-![The Gilded Coast (West)](assets/the-gilded-coast-west.jpg)
+![The Gilded Coast (West)](../../../../assets/the-gilded-coast-west.jpg)
 
 ### The Gilded Coast (East)
 
-![The Gilded Coast (East)](assets/the-gilded-coast-east.jpg)
+![The Gilded Coast (East)](../../../../assets/the-gilded-coast-east.jpg)
 
 ### Haven
 
-![Haven](assets/haven.jpg)
+![Haven](../../../../assets/haven.jpg)
 
 ### Prosperity
 
-![Prosperity](assets/prosperity.jpg)
+![Prosperity](../../../../assets/prosperity.jpg)
 
 ### Mirstone
 
-![Mirstone](assets/mirstone.jpg)
+![Mirstone](../../../../assets/mirstone.jpg)
 
 ### Calister
 
-![Calister](assets/calister.jpg)
+![Calister](../../../../assets/calister.jpg)
 
 ## Other files
 
@@ -40,7 +38,7 @@ sidebar_position: 3
 
 During
 [The Beginning of a Grand Adventure](sessions.md#the-beginning-of-a-grand-adventure),
-the crew found a [Cylinder with Runes](assets/cylinder-runes.pdf).
+the crew found a [Cylinder with Runes](../../../../assets/cylinder-runes.pdf).
 
 ### Potion Legend
 
@@ -49,7 +47,7 @@ Between
 and
 [Finishing up business in Haven](sessions.md#finishing-up-business-in-haven),
 Haywark told offered the crew the possibility of combining
-[some potions](assets/potion-effects.xlsx)
+[some potions](../../../../assets/potion-effects.xlsx)
 
 | Positive Potions            | Effect                                                                                                                                            |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,17 +83,17 @@ Haywark told offered the crew the possibility of combining
 
 ## Gennroch
 
-![A map of Glennroch.](assets/glennroch.jpg)
+![A map of Glennroch.](../../../../assets/glennroch.jpg)
 
 ## Rooksport
 
 Las Vegas meets Broadway!
 
-![A map of Rooksport](assets/rooksport.jpg)
+![A map of Rooksport](../../../../assets/rooksport.jpg)
 
 ## Tally
 
-![A map of Tally](assets/tally.jpg)
+![A map of Tally](../../../../assets/tally.jpg)
 
 ### Ship upgrades 🚢
 

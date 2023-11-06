@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+title: 'Tidebreaker: Session Notes'
+sidebar:
+  order: 1
 ---
-
-# Sessions
 
 ## The Beginning of a Grand Adventure
 

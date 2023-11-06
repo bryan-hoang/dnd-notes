@@ -1,4 +1,4 @@
-const typeCheckCommand = () => 'pnpm run type-check --if-present';
+const typeCheckCommand = () => 'pnpm run typecheck';
 const eslintCommand = 'pnpm run lint --fix';
 const prettierCommand = 'pnpm run format --write';
 const markdownlintCommand = 'pnpm run markdownlint --fix';

@@ -1,9 +1,6 @@
 ---
-slug: /
-sidebar_position: 1
+title: 'Introduction'
 ---
-
-# Introduction
 
 Welcome to my D&D Player Notes!
 

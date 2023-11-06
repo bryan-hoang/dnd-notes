@@ -1,8 +1,6 @@
 ---
-sidebar_position: 2
+title: 'Tidebreaker: World Building'
 ---
-
-# World Building
 
 ## Who
 

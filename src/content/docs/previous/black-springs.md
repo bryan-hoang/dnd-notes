@@ -1,4 +1,6 @@
-# Black Springs
+---
+title: 'Black Springs Campaign notes'
+---
 
 ## LOCATIONS
 
