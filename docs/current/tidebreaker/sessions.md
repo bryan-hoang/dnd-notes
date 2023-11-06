@@ -1031,6 +1031,15 @@ sidebar_position: 1
     - Shipment of goods from Strott before incident occurred. Only Strott
       currency to be given to Strott.
 
+## Another foray into Rook's Port (2023-11-04)
+
+- Argent & Kony visit the Hall of Fame to try to resolve some business Argent
+  has in the city.
+- Torvald begins training Odin in the ways of combat.
+- Dwite visits the colosseum to see Superbeous. The paparazzi see Sigma try to
+  act as the humble hero. Dwite sees Korrag the arm chewer eviscerate a
+  combatant, making an off putting spectacle.
+
 ## Quests/Tasks
 
 - [x] Bran wants us to intercept a shipment heading to Glennroch.
