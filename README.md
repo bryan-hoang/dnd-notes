@@ -1,39 +1,44 @@
 # dnd-notes
 
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 Notes on my sessions of D&amp;D as a player.
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern
-static website generator.
+## Table of Contents
 
-## Installation
+- [Install](#install)
+- [Usage](#usage)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
 
-```sh
+## Install
+
+```console
 pnpm install
 ```
 
-### Local Development
+## Usage
 
-```sh
-pnpm run start
-```
+```console
+# Run the development server.
+pnpm run dev
 
-This command starts a local development server and opens up a browser window.
-Most changes are reflected live without having to restart the server.
-
-### Build
-
-```sh
+# Build the site for deployment.
 pnpm run build
 ```
 
-This command generates static content into the `build` directory and can be
-served using any static contents hosting service.
+## Maintainers
 
-### Deployment
+[@@bryan-hoang](https://github.com/@bryan-hoang)
 
-```sh
-GIT_USER=<Your GitHub username> USE_SSH=true pnpm run deploy
-```
+## Contributing
 
-If you are using GitHub pages for hosting, this command is a convenient way to
-build the website and push to the `gh-pages` branch.
+PRs accepted.
+
+Small note: If editing the README, please conform to the
+[standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+MIT © 2023 Bryan Hoang
