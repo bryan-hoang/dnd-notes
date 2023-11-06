@@ -3,7 +3,7 @@
 /**
  * @type {import('prettier').Config}
  */
-module.exports = {
+export default {
 	proseWrap: 'always',
 	singleQuote: true,
 	useTabs: true,

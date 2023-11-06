@@ -1,4 +1,6 @@
-# The Second City
+---
+title: 'The Second City Campaign Notes'
+---
 
 ## Who
 

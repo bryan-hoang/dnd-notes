@@ -1,4 +1,6 @@
-# World building
+---
+title: 'Beneath the Sands: World Building'
+---
 
 - Gods are pretty influential
 - Royal Family holds the most power, but there exists a Senate to help with

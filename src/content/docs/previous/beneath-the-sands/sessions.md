@@ -1,4 +1,6 @@
-# Sessions
+---
+title: 'Beneath the Sands: Session Notes'
+---
 
 ## Session 2
 
