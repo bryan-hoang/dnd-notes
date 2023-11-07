@@ -30,7 +30,7 @@ pnpm run build
 
 ## Maintainers
 
-[@@bryan-hoang](https://github.com/@bryan-hoang)
+[@bryan-hoang](https://github.com/@bryan-hoang)
 
 ## Contributing
 
