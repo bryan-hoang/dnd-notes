@@ -6,6 +6,8 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: "Bryan Hoang's D&D Notes",
+			description:
+				'Notes I write whenever I have a computer in front of me during sessions :D',
 			social: {
 				github: 'https://github.com/bryan-hoang/dnd-notes',
 			},
