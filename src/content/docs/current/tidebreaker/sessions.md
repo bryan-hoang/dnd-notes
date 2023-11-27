@@ -1039,6 +1039,20 @@ sidebar:
 - Dwite visits the colosseum to see Superbeous. The paparazzi see Sigma try to
   act as the humble hero. Dwite sees Korrag the arm chewer eviscerate a
   combatant, making an off putting spectacle.
+  - The Faun.
+  - Converting a mortal into a powerful devil?
+
+## Session 99: Recovering from a crippling gamling addition (2023-11-26)
+
+- Through talking with John & Marsh, their next job was to transport a painting
+  the Trade Price of Rook's Port commissioned. It's of Sigma defeating the
+  Wyvern while shirtless. It's meant to be a gift to the Alpha in Mirstone as a
+  token of thanks for the exotic animals in the Colloseum fights.
+- Argent talks to Angela about... things ;)
+  - Leader of the Malcontents is in cahoots with another fella (golfing buddies
+    :D).
+  - Echiechie talks to Torvald about the Stewards' control over the city.
+- Argent scrys on his brother, Hal Elysian.
 
 ## Quests/Tasks
 
