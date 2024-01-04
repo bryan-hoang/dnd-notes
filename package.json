@@ -19,8 +19,8 @@
 		"sharp": "0.33.1"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "18.4.3",
-		"@commitlint/config-conventional": "18.4.3",
+		"@commitlint/cli": "18.4.4",
+		"@commitlint/config-conventional": "18.4.4",
 		"@types/eslint": "8.56.1",
 		"@types/react": "18.2.46",
 		"@typescript-eslint/eslint-plugin": "6.17.0",
