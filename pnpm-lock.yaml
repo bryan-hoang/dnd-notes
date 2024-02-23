@@ -44,8 +44,8 @@ devDependencies:
     specifier: 0.44.0
     version: 0.44.0(eslint@8.56.0)
   eslint-config-xo-typescript:
-    specifier: 2.1.1
-    version: 2.1.1(@typescript-eslint/eslint-plugin@7.0.2)(@typescript-eslint/parser@7.0.2)(eslint@8.56.0)(typescript@5.3.3)
+    specifier: 3.0.0
+    version: 3.0.0(@typescript-eslint/eslint-plugin@7.0.2)(@typescript-eslint/parser@7.0.2)(eslint@8.56.0)(typescript@5.3.3)
   husky:
     specifier: 9.0.11
     version: 9.0.11
@@ -2444,12 +2444,12 @@ packages:
       eslint: 8.56.0
     dev: true
 
-  /eslint-config-xo-typescript@2.1.1(@typescript-eslint/eslint-plugin@7.0.2)(@typescript-eslint/parser@7.0.2)(eslint@8.56.0)(typescript@5.3.3):
-    resolution: {integrity: sha512-fyzEjN8e+qbdU0uWxxnhryRDYTE4ZkQ4AEiV1J180r/6EOFeGkiiBCgYJunKQD7MaEOlKLmcmOnO2oVFcE5K0Q==}
+  /eslint-config-xo-typescript@3.0.0(@typescript-eslint/eslint-plugin@7.0.2)(@typescript-eslint/parser@7.0.2)(eslint@8.56.0)(typescript@5.3.3):
+    resolution: {integrity: sha512-8C1EFMHBHMxnFuY+0gSLrnOfSvGG766L85EEFYNqEfO7XmfAVvEKUDgLMwDQ34Dq/bEpOSvVx8gkN9Owx3iKEw==}
     engines: {node: '>=18'}
     peerDependencies:
-      '@typescript-eslint/eslint-plugin': '>=6.21.0'
-      '@typescript-eslint/parser': '>=6.21.0'
+      '@typescript-eslint/eslint-plugin': '>=7.0.2'
+      '@typescript-eslint/parser': '>=7.0.2'
       eslint: '>=8.56.0'
       typescript: '>=5.0.0'
     dependencies:
