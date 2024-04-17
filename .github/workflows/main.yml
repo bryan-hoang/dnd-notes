@@ -29,7 +29,7 @@ jobs:
       # https://pnpm.io/continuous-integration#github-actions
       - uses: pnpm/action-setup@v2
         with:
-          version: 8
+          version: 9
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v4
         with:
@@ -39,13 +39,11 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Format
-        run: pnpm run format
+      - name: Check
+        run: pnpm run check
+
+      - name: Lint Markdown
+        run: pnpm run markdownlint
 
       - name: Build
         run: pnpm run build
-
-      - name: Lint
-        run: |
-          pnpm run lint
-          pnpm run markdownlint
