@@ -28,8 +28,8 @@ importers:
         specifier: 19.2.2
         version: 19.2.2
       '@types/react':
-        specifier: 18.3.0
-        version: 18.3.0
+        specifier: 18.3.1
+        version: 18.3.1
       husky:
         specifier: 9.0.11
         version: 9.0.11
@@ -794,8 +794,8 @@ packages:
   '@types/prop-types@15.7.9':
     resolution: {integrity: sha512-n1yyPsugYNSmHgxDFjicaI2+gCNjsBck8UX9kuofAKlc0h1bL+20oSF72KeNaW2DUlesbEVCFgyV2dPGTiY42g==}
 
-  '@types/react@18.3.0':
-    resolution: {integrity: sha512-DiUcKjzE6soLyln8NNZmyhcQjVv+WsUIFSqetMN0p8927OztKT4VTfFTqsbAi5oAGIcgOmOajlfBqyptDDjZRw==}
+  '@types/react@18.3.1':
+    resolution: {integrity: sha512-V0kuGBX3+prX+DQ/7r2qsv1NsdfnCLnTgnRJ1pYnxykBhGMz+qj+box5lq7XsO5mtZsBqpjwwTu/7wszPfMBcw==}
 
   '@types/sax@1.2.6':
     resolution: {integrity: sha512-A1mpYCYu1aHFayy8XKN57ebXeAbh9oQIZ1wXcno6b1ESUAfMBDMx7mf/QGlYwcMRaFryh9YBuH03i/3FlPGDkQ==}
@@ -3422,7 +3422,7 @@ snapshots:
 
   '@types/prop-types@15.7.9': {}
 
-  '@types/react@18.3.0':
+  '@types/react@18.3.1':
     dependencies:
       '@types/prop-types': 15.7.9
       csstype: 3.1.2
