@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@astrojs/starlight':
-        specifier: 0.22.0
-        version: 0.22.0(astro@4.7.0(@types/node@18.18.8)(typescript@5.4.5))
+        specifier: 0.22.1
+        version: 0.22.1(astro@4.7.0(@types/node@18.18.8)(typescript@5.4.5))
       astro:
         specifier: 4.7.0
         version: 4.7.0(@types/node@18.18.8)(typescript@5.4.5)
@@ -74,8 +74,8 @@ packages:
   '@astrojs/sitemap@3.0.5':
     resolution: {integrity: sha512-60eLzNjMza3ABypiQPUC6ElOSZNZeY5CwSwgJ03hfeonl+Db9x12CCzBFdTw7A5Mq+O54xEZVUrR0tB+yWgX8w==}
 
-  '@astrojs/starlight@0.22.0':
-    resolution: {integrity: sha512-R1cMm8Z33JkJNSjquVLMbeouMu6VyKafyBmkpKUEr2YD9ceaYqVM44YFBmqYdsrAooPwEZK4UB2Q65sRLvKqvg==}
+  '@astrojs/starlight@0.22.1':
+    resolution: {integrity: sha512-RATQZ4AVr78K30rupsNGTC+JLtHNimHpBtbslzC1bPoaG/TetTi6iUX8dQhHARKstq6sSBatYkZJcX3CGgzS2w==}
     peerDependencies:
       astro: ^4.2.7
 
@@ -1356,9 +1356,6 @@ packages:
 
   hast-util-to-estree@3.1.0:
     resolution: {integrity: sha512-lfX5g6hqVh9kjS/B9E2gSkvHH4SZNiQFiqWS0x9fENzEl+8W12RqdRxX6d/Cwxi30tPQs3bIO+aolQJNp1bIyw==}
-
-  hast-util-to-html@9.0.0:
-    resolution: {integrity: sha512-IVGhNgg7vANuUA2XKrT6sOIIPgaYZnmLx3l/CCOAK0PtgfoHrZwX7jCSYyFxHTrGmC6S9q8aQQekjp4JPZF+cw==}
 
   hast-util-to-html@9.0.1:
     resolution: {integrity: sha512-hZOofyZANbyWo+9RP75xIDV/gq+OUKx+T46IlwERnKmfpwp81XBFbT9mi26ws+SJchA4RVUQwIBJpqEOBhMzEQ==}
@@ -2649,7 +2646,7 @@ snapshots:
       estree-util-visit: 2.0.0
       github-slugger: 2.0.0
       gray-matter: 4.0.3
-      hast-util-to-html: 9.0.0
+      hast-util-to-html: 9.0.1
       kleur: 4.1.5
       rehype-raw: 7.0.0
       remark-gfm: 4.0.0
@@ -2669,7 +2666,7 @@ snapshots:
       sitemap: 7.1.1
       zod: 3.23.4
 
-  '@astrojs/starlight@0.22.0(astro@4.7.0(@types/node@18.18.8)(typescript@5.4.5))':
+  '@astrojs/starlight@0.22.1(astro@4.7.0(@types/node@18.18.8)(typescript@5.4.5))':
     dependencies:
       '@astrojs/mdx': 2.1.1(astro@4.7.0(@types/node@18.18.8)(typescript@5.4.5))
       '@astrojs/sitemap': 3.0.5
@@ -4066,21 +4063,6 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  hast-util-to-html@9.0.0:
-    dependencies:
-      '@types/hast': 3.0.3
-      '@types/unist': 3.0.1
-      ccount: 2.0.1
-      comma-separated-tokens: 2.0.3
-      hast-util-raw: 9.0.1
-      hast-util-whitespace: 3.0.0
-      html-void-elements: 3.0.0
-      mdast-util-to-hast: 13.0.2
-      property-information: 6.4.0
-      space-separated-tokens: 2.0.2
-      stringify-entities: 4.0.3
-      zwitch: 2.0.4
-
   hast-util-to-html@9.0.1:
     dependencies:
       '@types/hast': 3.0.3
@@ -5132,7 +5114,7 @@ snapshots:
   rehype-stringify@10.0.0:
     dependencies:
       '@types/hast': 3.0.3
-      hast-util-to-html: 9.0.0
+      hast-util-to-html: 9.0.1
       unified: 11.0.4
 
   rehype@13.0.1:
