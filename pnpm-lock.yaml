@@ -10,10 +10,10 @@ importers:
     dependencies:
       '@astrojs/starlight':
         specifier: 0.22.2
-        version: 0.22.2(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5))
+        version: 0.22.2(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5))
       astro:
-        specifier: 4.8.0
-        version: 4.8.0(@types/node@18.18.8)(typescript@5.4.5)
+        specifier: 4.8.2
+        version: 4.8.2(@types/node@18.18.8)(typescript@5.4.5)
       sharp:
         specifier: 0.33.3
         version: 0.33.3
@@ -869,9 +869,6 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@shikijs/core@1.3.0':
-    resolution: {integrity: sha512-7fedsBfuILDTBmrYZNFI8B6ATTxhQAasUHllHmjvSZPnoq4bULWoTpHwmuQvZ8Aq03/tAa2IGo6RXqWtHdWaCA==}
-
   '@shikijs/core@1.5.1':
     resolution: {integrity: sha512-xjV63pRUBvxA1LsxOUhRKLPh0uUjwBLzAKLdEuYSLIylo71sYuwDcttqNP01Ib1TZlLfO840CXHPlgUUsYFjzg==}
 
@@ -1019,8 +1016,8 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^3.3.0
 
-  astro@4.8.0:
-    resolution: {integrity: sha512-JRGxesSdLPyXfo2E5JhT6jK8LQRlBRDtazNmZk0qEemVWqxijuETym1XPEZUOUA5pUSZUJjv0mYqlJ1RBtLTGA==}
+  astro@4.8.2:
+    resolution: {integrity: sha512-WBrnNePQ03cF5c+9sjD3TeyJodWMuPCwygDOUo7r+7LbKDN9TJK+KxIxo01AOX4HcexhxcLiTVVCBLSsi+OX9A==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -2362,9 +2359,6 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  shiki@1.3.0:
-    resolution: {integrity: sha512-9aNdQy/etMXctnPzsje1h1XIGm9YfRcSksKOGqZWXA/qP9G18/8fpz5Bjpma8bOgz3tqIpjERAd6/lLjFyzoww==}
-
   shiki@1.5.1:
     resolution: {integrity: sha512-vx4Ds3M3B9ZEmLeSXqBAB85osBWV8ErZfP69kuFQZozPgHc33m7spLTCUkcjwEjFm3gk3F9IdXMv8kX+v9xDHA==}
 
@@ -2433,10 +2427,6 @@ packages:
   string-width@5.1.2:
     resolution: {integrity: sha512-HnLOCR3vjcY8beoNLtcjZ5/nxn2afmME6lhrDrebokqMap+XbeW8n9TXpPDOqdGK5qcI3oT0GKTW6wC7EMiVqA==}
     engines: {node: '>=12'}
-
-  string-width@7.0.0:
-    resolution: {integrity: sha512-GPQHj7row82Hjo9hKZieKcHIhaAIKOJvFSIZXuCU9OASVZrMNUaZuz++SPVrBjnLsnk4k+z9f2EIypgxf2vNFw==}
-    engines: {node: '>=18'}
 
   string-width@7.1.0:
     resolution: {integrity: sha512-SEIJCWiX7Kg4c129n48aDRwLbFb2LJmXXFrWBG4NGaRtMQ3myKPKbwrD1BKqQn74oCoNMBVrfDEr5M9YxCsrkw==}
@@ -2728,9 +2718,6 @@ packages:
     peerDependencies:
       zod: ^3.23.3
 
-  zod@3.23.5:
-    resolution: {integrity: sha512-fkwiq0VIQTksNNA131rDOsVJcns0pfVUjHzLrNBiF/O/Xxb5lQyEXkhZWcJ7npWsYlvs+h0jFWXXy4X46Em1JA==}
-
   zod@3.23.8:
     resolution: {integrity: sha512-XBx9AXhXktjUqnepgTiE5flcKIYWi/rme0Eaj+5Y0lftuGBq+jyRu/md4WnuxqgP1ubdpNCsYEYPxrzVHD8d6g==}
 
@@ -2790,12 +2777,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@2.1.1(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5))':
+  '@astrojs/mdx@2.1.1(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5))':
     dependencies:
       '@astrojs/markdown-remark': 4.2.1
       '@mdx-js/mdx': 3.0.0
       acorn: 8.11.3
-      astro: 4.8.0(@types/node@18.18.8)(typescript@5.4.5)
+      astro: 4.8.2(@types/node@18.18.8)(typescript@5.4.5)
       es-module-lexer: 1.5.2
       estree-util-visit: 2.0.0
       github-slugger: 2.0.0
@@ -2818,17 +2805,17 @@ snapshots:
   '@astrojs/sitemap@3.0.5':
     dependencies:
       sitemap: 7.1.1
-      zod: 3.23.5
+      zod: 3.23.8
 
-  '@astrojs/starlight@0.22.2(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5))':
+  '@astrojs/starlight@0.22.2(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5))':
     dependencies:
-      '@astrojs/mdx': 2.1.1(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5))
+      '@astrojs/mdx': 2.1.1(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5))
       '@astrojs/sitemap': 3.0.5
       '@pagefind/default-ui': 1.0.3
       '@types/hast': 3.0.3
       '@types/mdast': 4.0.3
-      astro: 4.8.0(@types/node@18.18.8)(typescript@5.4.5)
-      astro-expressive-code: 0.35.2(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5))
+      astro: 4.8.2(@types/node@18.18.8)(typescript@5.4.5)
+      astro-expressive-code: 0.35.2(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.1
       hast-util-select: 6.0.2
@@ -3080,7 +3067,7 @@ snapshots:
   '@commitlint/is-ignored@19.2.2':
     dependencies:
       '@commitlint/types': 19.0.3
-      semver: 7.6.0
+      semver: 7.6.1
 
   '@commitlint/lint@19.2.2':
     dependencies:
@@ -3313,7 +3300,7 @@ snapshots:
   '@expressive-code/plugin-shiki@0.35.2':
     dependencies:
       '@expressive-code/core': 0.35.2
-      shiki: 1.3.0
+      shiki: 1.5.1
 
   '@expressive-code/plugin-text-markers@0.35.2':
     dependencies:
@@ -3528,8 +3515,6 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.16.4':
     optional: true
 
-  '@shikijs/core@1.3.0': {}
-
   '@shikijs/core@1.5.1': {}
 
   '@types/acorn@4.0.6':
@@ -3675,12 +3660,12 @@ snapshots:
 
   astring@1.8.6: {}
 
-  astro-expressive-code@0.35.2(astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5)):
+  astro-expressive-code@0.35.2(astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5)):
     dependencies:
-      astro: 4.8.0(@types/node@18.18.8)(typescript@5.4.5)
+      astro: 4.8.2(@types/node@18.18.8)(typescript@5.4.5)
       rehype-expressive-code: 0.35.2
 
-  astro@4.8.0(@types/node@18.18.8)(typescript@5.4.5):
+  astro@4.8.2(@types/node@18.18.8)(typescript@5.4.5):
     dependencies:
       '@astrojs/compiler': 2.8.0
       '@astrojs/internal-helpers': 0.4.0
@@ -3855,7 +3840,7 @@ snapshots:
   cli-truncate@4.0.0:
     dependencies:
       slice-ansi: 5.0.0
-      string-width: 7.0.0
+      string-width: 7.1.0
 
   cliui@8.0.1:
     dependencies:
@@ -5554,10 +5539,6 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  shiki@1.3.0:
-    dependencies:
-      '@shikijs/core': 1.3.0
-
   shiki@1.5.1:
     dependencies:
       '@shikijs/core': 1.5.1
@@ -5619,12 +5600,6 @@ snapshots:
     dependencies:
       eastasianwidth: 0.2.0
       emoji-regex: 9.2.2
-      strip-ansi: 7.1.0
-
-  string-width@7.0.0:
-    dependencies:
-      emoji-regex: 10.3.0
-      get-east-asian-width: 1.2.0
       strip-ansi: 7.1.0
 
   string-width@7.1.0:
@@ -5880,7 +5855,7 @@ snapshots:
   wrap-ansi@9.0.0:
     dependencies:
       ansi-styles: 6.2.1
-      string-width: 7.0.0
+      string-width: 7.1.0
       strip-ansi: 7.1.0
 
   y18n@5.0.8: {}
@@ -5910,8 +5885,6 @@ snapshots:
   zod-to-json-schema@3.23.0(zod@3.23.8):
     dependencies:
       zod: 3.23.8
-
-  zod@3.23.5: {}
 
   zod@3.23.8: {}
 
