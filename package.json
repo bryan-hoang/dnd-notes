@@ -13,7 +13,7 @@
 		"typecheck": "tsc"
 	},
 	"dependencies": {
-		"@astrojs/starlight": "0.24.4",
+		"@astrojs/starlight": "0.24.5",
 		"astro": "4.11.3",
 		"sharp": "0.33.4"
 	},
