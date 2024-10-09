@@ -10,10 +10,10 @@ importers:
     dependencies:
       '@astrojs/starlight':
         specifier: 0.28.3
-        version: 0.28.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2))
+        version: 0.28.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3))
       astro:
         specifier: 4.15.12
-        version: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2)
+        version: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3)
       sharp:
         specifier: 0.33.5
         version: 0.33.5
@@ -23,7 +23,7 @@ importers:
         version: 1.8.3
       '@commitlint/cli':
         specifier: 19.5.0
-        version: 19.5.0(@types/node@18.18.8)(typescript@5.6.2)
+        version: 19.5.0(@types/node@18.18.8)(typescript@5.6.3)
       '@commitlint/config-conventional':
         specifier: 19.5.0
         version: 19.5.0
@@ -40,8 +40,8 @@ importers:
         specifier: 0.41.0
         version: 0.41.0
       typescript:
-        specifier: 5.6.2
-        version: 5.6.2
+        specifier: 5.6.3
+        version: 5.6.3
 
 packages:
 
@@ -2371,8 +2371,8 @@ packages:
     resolution: {integrity: sha512-yOGpmOAL7CkKe/91I5O3gPICmJNLJ1G4zFYVAsRHg7M64biSnPtRj0WNQt++bRkjYOqjWXrhnUw1utzmVErAdg==}
     engines: {node: '>=16'}
 
-  typescript@5.6.2:
-    resolution: {integrity: sha512-NW8ByodCSNCwZeghjN3o+JX5OFH0Ojg6sadjEKY4huZ52TqbJTJnDo5+Tw98lSy63NZvi4n+ez5m2u5d4PkZyw==}
+  typescript@5.6.3:
+    resolution: {integrity: sha512-hjcS1mhfuyi4WW8IWtjP7brDrG2cuDZukyrYrSauoXGNgx0S7zceP07adYkJycEr56BOUTNPzbInooiN3fn1qw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -2589,12 +2589,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@3.1.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2))':
+  '@astrojs/mdx@3.1.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3))':
     dependencies:
       '@astrojs/markdown-remark': 5.2.0
       '@mdx-js/mdx': 3.0.1
       acorn: 8.12.1
-      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2)
+      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3)
       es-module-lexer: 1.5.4
       estree-util-visit: 2.0.0
       github-slugger: 2.0.0
@@ -2620,15 +2620,15 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.23.8
 
-  '@astrojs/starlight@0.28.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2))':
+  '@astrojs/starlight@0.28.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3))':
     dependencies:
-      '@astrojs/mdx': 3.1.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2))
+      '@astrojs/mdx': 3.1.3(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3))
       '@astrojs/sitemap': 3.1.6
       '@pagefind/default-ui': 1.1.1
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
-      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2)
-      astro-expressive-code: 0.35.6(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2))
+      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3)
+      astro-expressive-code: 0.35.6(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.1
       hast-util-select: 6.0.2
@@ -2851,11 +2851,11 @@ snapshots:
   '@biomejs/cli-win32-x64@1.8.3':
     optional: true
 
-  '@commitlint/cli@19.5.0(@types/node@18.18.8)(typescript@5.6.2)':
+  '@commitlint/cli@19.5.0(@types/node@18.18.8)(typescript@5.6.3)':
     dependencies:
       '@commitlint/format': 19.5.0
       '@commitlint/lint': 19.5.0
-      '@commitlint/load': 19.5.0(@types/node@18.18.8)(typescript@5.6.2)
+      '@commitlint/load': 19.5.0(@types/node@18.18.8)(typescript@5.6.3)
       '@commitlint/read': 19.5.0
       '@commitlint/types': 19.5.0
       tinyexec: 0.3.0
@@ -2902,15 +2902,15 @@ snapshots:
       '@commitlint/rules': 19.5.0
       '@commitlint/types': 19.5.0
 
-  '@commitlint/load@19.5.0(@types/node@18.18.8)(typescript@5.6.2)':
+  '@commitlint/load@19.5.0(@types/node@18.18.8)(typescript@5.6.3)':
     dependencies:
       '@commitlint/config-validator': 19.5.0
       '@commitlint/execute-rule': 19.5.0
       '@commitlint/resolve-extends': 19.5.0
       '@commitlint/types': 19.5.0
       chalk: 5.3.0
-      cosmiconfig: 9.0.0(typescript@5.6.2)
-      cosmiconfig-typescript-loader: 5.0.0(@types/node@18.18.8)(cosmiconfig@9.0.0(typescript@5.6.2))(typescript@5.6.2)
+      cosmiconfig: 9.0.0(typescript@5.6.3)
+      cosmiconfig-typescript-loader: 5.0.0(@types/node@18.18.8)(cosmiconfig@9.0.0(typescript@5.6.3))(typescript@5.6.3)
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
       lodash.uniq: 4.5.0
@@ -3444,12 +3444,12 @@ snapshots:
 
   astring@1.8.6: {}
 
-  astro-expressive-code@0.35.6(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2)):
+  astro-expressive-code@0.35.6(astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3)):
     dependencies:
-      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2)
+      astro: 4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3)
       rehype-expressive-code: 0.35.6
 
-  astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.2):
+  astro@4.15.12(@types/node@18.18.8)(rollup@4.24.0)(typescript@5.6.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -3504,7 +3504,7 @@ snapshots:
       shiki: 1.22.0
       string-width: 7.2.0
       tinyexec: 0.3.0
-      tsconfck: 3.1.3(typescript@5.6.2)
+      tsconfck: 3.1.3(typescript@5.6.3)
       unist-util-visit: 5.0.0
       vfile: 6.0.3
       vite: 5.4.8(@types/node@18.18.8)
@@ -3514,7 +3514,7 @@ snapshots:
       yargs-parser: 21.1.1
       zod: 3.23.8
       zod-to-json-schema: 3.23.3(zod@3.23.8)
-      zod-to-ts: 1.2.0(typescript@5.6.2)(zod@3.23.8)
+      zod-to-ts: 1.2.0(typescript@5.6.3)(zod@3.23.8)
     optionalDependencies:
       sharp: 0.33.5
     transitivePeerDependencies:
@@ -3677,21 +3677,21 @@ snapshots:
 
   cookie@0.7.2: {}
 
-  cosmiconfig-typescript-loader@5.0.0(@types/node@18.18.8)(cosmiconfig@9.0.0(typescript@5.6.2))(typescript@5.6.2):
+  cosmiconfig-typescript-loader@5.0.0(@types/node@18.18.8)(cosmiconfig@9.0.0(typescript@5.6.3))(typescript@5.6.3):
     dependencies:
       '@types/node': 18.18.8
-      cosmiconfig: 9.0.0(typescript@5.6.2)
+      cosmiconfig: 9.0.0(typescript@5.6.3)
       jiti: 1.21.0
-      typescript: 5.6.2
+      typescript: 5.6.3
 
-  cosmiconfig@9.0.0(typescript@5.6.2):
+  cosmiconfig@9.0.0(typescript@5.6.3):
     dependencies:
       env-paths: 2.2.1
       import-fresh: 3.3.0
       js-yaml: 4.1.0
       parse-json: 5.2.0
     optionalDependencies:
-      typescript: 5.6.2
+      typescript: 5.6.3
 
   cross-spawn@7.0.3:
     dependencies:
@@ -5428,16 +5428,16 @@ snapshots:
 
   trough@2.1.0: {}
 
-  tsconfck@3.1.3(typescript@5.6.2):
+  tsconfck@3.1.3(typescript@5.6.3):
     optionalDependencies:
-      typescript: 5.6.2
+      typescript: 5.6.3
 
   tslib@2.6.2:
     optional: true
 
   type-fest@4.26.1: {}
 
-  typescript@5.6.2: {}
+  typescript@5.6.3: {}
 
   uc.micro@2.1.0: {}
 
@@ -5601,9 +5601,9 @@ snapshots:
     dependencies:
       zod: 3.23.8
 
-  zod-to-ts@1.2.0(typescript@5.6.2)(zod@3.23.8):
+  zod-to-ts@1.2.0(typescript@5.6.3)(zod@3.23.8):
     dependencies:
-      typescript: 5.6.2
+      typescript: 5.6.3
       zod: 3.23.8
 
   zod@3.23.8: {}
