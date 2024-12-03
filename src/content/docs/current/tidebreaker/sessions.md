@@ -142,10 +142,10 @@ sidebar:
   - In actuality, he and Dwite rob the pet store, mainly for training Odin
   - Odin gets Purple and Gold collar
 - Potion Legend:
-  - 1. Red, str/spd
-  - 2. Yellow Green, Iron skin/rejuv
-  - 3. Blue, Big dumb truthy depresso expresso
-  - 4. Clear, true sight/mind
+  - Red, str/spd
+  - Yellow Green, Iron skin/rejuv
+  - Blue, Big dumb truthy depresso expresso
+  - Clear, true sight/mind
 
 ## A Detour in Whiteridge
 
