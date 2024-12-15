@@ -19,7 +19,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@commitlint/cli": "19.6.0",
+		"@commitlint/cli": "19.6.1",
 		"@commitlint/config-conventional": "19.6.0",
 		"@types/react": "19.0.1",
 		"husky": "9.1.7",
