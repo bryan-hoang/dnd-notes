@@ -25,6 +25,9 @@ export default defineConfig({
 					autogenerate: { directory: "previous", collapsed: true },
 				},
 			],
+			components: {
+				Head: "./src/components/Head.astro",
+			},
 		}),
 	],
 });

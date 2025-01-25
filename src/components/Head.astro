@@ -1,0 +1,8 @@
+---
+import Default from "@astrojs/starlight/components/Head.astro";
+import type { Props } from "@astrojs/starlight/props";
+import SpeedInsights from "@vercel/speed-insights/astro";
+---
+
+<Default {...Astro.props}><slot /></Default>
+<SpeedInsights />
