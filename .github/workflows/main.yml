@@ -1,6 +1,10 @@
 # This is a basic workflow to help you get started with Actions
 name: Node.js CI
 
+permissions:
+  contents: read
+  pull-requests: write
+
 # Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
@@ -32,7 +36,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'pnpm'
+          cache: "pnpm"
 
       - name: Install dependencies
         run: pnpm install
