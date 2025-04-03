@@ -30,4 +30,12 @@ export default defineConfig({
 			},
 		}),
 	],
+	site: "https://dnd.bryanhoang.dev",
+	i18n: {
+		defaultLocale: "en",
+		locales: ["en"],
+		routing: {
+			redirectToDefaultLocale: true,
+		},
+	},
 });
