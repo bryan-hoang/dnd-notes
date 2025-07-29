@@ -13,7 +13,7 @@
 		"typecheck": "tsc"
 	},
 	"dependencies": {
-		"@astrojs/starlight": "0.35.1",
+		"@astrojs/starlight": "0.35.2",
 		"@vercel/speed-insights": "1.2.0",
 		"astro": "5.12.4",
 		"sharp": "0.34.3"
