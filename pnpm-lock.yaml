@@ -34,8 +34,8 @@ importers:
         specifier: 20.0.0
         version: 20.0.0
       '@types/react':
-        specifier: 19.2.3
-        version: 19.2.3
+        specifier: 19.2.4
+        version: 19.2.4
       husky:
         specifier: 9.1.7
         version: 9.1.7
@@ -765,8 +765,8 @@ packages:
   '@types/node@22.14.0':
     resolution: {integrity: sha512-Kmpl+z84ILoG+3T/zQFyAJsU6EPTmOCj8/2+83fSN6djd6I4o7uOuGIH6vq3PrjY5BGitSbFuMN18j3iknubbA==}
 
-  '@types/react@19.2.3':
-    resolution: {integrity: sha512-k5dJVszUiNr1DSe8Cs+knKR6IrqhqdhpUwzqhkS8ecQTSf3THNtbfIp/umqHMpX2bv+9dkx3fwDv/86LcSfvSg==}
+  '@types/react@19.2.4':
+    resolution: {integrity: sha512-tBFxBp9Nfyy5rsmefN+WXc1JeW/j2BpBHFdLZbEVfs9wn3E3NRFxwV0pJg8M1qQAexFpvz73hJXFofV0ZAu92A==}
 
   '@types/sax@1.2.7':
     resolution: {integrity: sha512-rO73L89PJxeYM3s3pPPjiPgVVcymqU490g0YO5n5By0k2Erzj6tay/4lr1CHAAU4JyOWd1rpQ8bCf6cZfHU96A==}
@@ -3206,7 +3206,7 @@ snapshots:
     dependencies:
       undici-types: 6.21.0
 
-  '@types/react@19.2.3':
+  '@types/react@19.2.4':
     dependencies:
       csstype: 3.1.3
 
