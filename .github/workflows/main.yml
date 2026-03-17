@@ -31,7 +31,7 @@ jobs:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
       # Use `pnpm` for installing and caching dependencies.
       # https://pnpm.io/continuous-integration#github-actions
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v5
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v6
         with:
