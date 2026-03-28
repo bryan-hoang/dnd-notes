@@ -1,6 +1,6 @@
-const typeCheckCommand = () => "pnpm run typecheck";
-const eslintCommand = "pnpm run check";
-const markdownlintCommand = "pnpm run markdownlint --fix";
+const typeCheckCommand = () => "vp check";
+const eslintCommand = "vp check";
+const markdownlintCommand = "vp run markdownlint --fix";
 
 function micromatchFileExtension(...fileExtensions) {
 	return `*.(${fileExtensions.join("|")})`;

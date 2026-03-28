@@ -3,13 +3,14 @@ name: Node.js CI
 
 permissions:
   contents: read
-  pull-requests: write
 
 # Controls when the action will run.
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
+    branches:
+      - main
   pull_request:
+    types: [opened, synchronize, labeled]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -22,30 +23,25 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [lts/*]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+        node-version: [lts]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
-      # Use `pnpm` for installing and caching dependencies.
-      # https://pnpm.io/continuous-integration#github-actions
-      - uses: pnpm/action-setup@v5
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v6
+
+      - name: Setup Vite+
+        uses: voidzero-dev/setup-vp@v1
         with:
           node-version: ${{ matrix.node-version }}
-          cache: "pnpm"
-
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Check
-        run: pnpm run check
-
-      - name: Lint Markdown
-        run: pnpm run markdownlint
+          cache: true
 
       - name: Build
-        run: pnpm run build
+        run: vp run build
+
+      - name: Check
+        run: vp check
+
+      - name: Lint Markdown
+        run: vp run markdownlint

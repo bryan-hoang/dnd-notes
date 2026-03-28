@@ -1,5 +1,5 @@
 ---
-title: 'The Second City Campaign Notes'
+title: "The Second City Campaign Notes"
 ---
 
 ## Who

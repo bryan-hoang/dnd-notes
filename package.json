@@ -4,13 +4,11 @@
 	"scripts": {
 		"astro": "astro",
 		"build": "astro build",
-		"check": "biome check .",
 		"dev": "astro dev",
 		"markdownlint": "markdownlint . --ignore node_modules",
 		"prepare": "husky",
 		"preview": "astro preview",
-		"start": "astro dev",
-		"typecheck": "tsc"
+		"start": "astro dev"
 	},
 	"dependencies": {
 		"@astrojs/starlight": "0.37.7",
@@ -19,14 +17,23 @@
 		"sharp": "0.34.5"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.4.9",
 		"@commitlint/cli": "20.5.0",
 		"@commitlint/config-conventional": "20.5.0",
 		"@types/react": "19.2.14",
 		"husky": "9.1.7",
 		"lint-staged": "16.4.0",
 		"markdownlint-cli": "0.48.0",
-		"typescript": "6.0.2"
+		"typescript": "6.0.2",
+		"vite-plus": "catalog:"
 	},
-	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+	"packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319",
+	"pnpm": {
+		"packageExtensions": {
+			"@voidzero-dev/vite-plus-core": {
+				"peerDependencies": {
+					"vite-plus": "*"
+				}
+			}
+		}
+	}
 }

@@ -1,5 +1,5 @@
 ---
-title: 'Tidebreaker: Session Notes'
+title: "Tidebreaker: Session Notes"
 sidebar:
   order: 1
 ---

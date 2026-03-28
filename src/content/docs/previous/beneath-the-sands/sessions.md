@@ -1,5 +1,5 @@
 ---
-title: 'Beneath the Sands: Session Notes'
+title: "Beneath the Sands: Session Notes"
 ---
 
 ## Session 2
@@ -51,7 +51,6 @@ title: 'Beneath the Sands: Session Notes'
     speedrun
   - Set & Osirus, story
 - Chat with Chief Architect.
-
   - Stopped getting dreams once the city was found
 
 ## Session 7
