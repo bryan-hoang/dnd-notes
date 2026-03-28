@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: "Introduction"
 ---
 
 Welcome to my D&D Player Notes!
