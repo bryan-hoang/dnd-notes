@@ -1,6 +1,36 @@
+# dnd-notes Agent Instructions
+
+This repository contains D&D session notes built with
+[Astro](https://astro.build/) and [Starlight](https://starlight.astro.build/).
+
+## Architecture & Content
+
+- **Public Content**: All published markdown files and assets live under
+  `src/content/docs/` and `src/assets/`.
+- **Private Content**: Unpublished/draft notes are kept in the `private/`
+  directory at the root.
+- **Commit Standards**: The repository enforces conventional commits via `husky`
+  and `commitlint`. Ensure all commit messages follow the conventional format
+  (e.g., `feat: ...`, `fix: ...`, `docs: ...`).
+
+## Commands & Workflows
+
+- **Package Manager**: The project uses `pnpm`, but it is strictly wrapped by
+  `vite-plus` (`vp`). Use `vp` for all package operations (e.g., `vp install`,
+  `vp add`).
+- **Dev & Build (CRITICAL)**: Do **not** use `vp dev` or `vp build`. Because
+  this is an Astro project, `vp dev` will incorrectly start a default Vite
+  server. You must run the custom `package.json` scripts via `vp run`:
+  - Start Astro dev server: `vp run dev`
+  - Build Astro site: `vp run build`
+  - Preview build: `vp run preview`
+- **Linting & Formatting**:
+  - Type-checking, formatting, and JS/TS linting: `vp check`
+  - Markdown linting: `vp run markdownlint` (or `vp run markdownlint --fix`)
+
 <!--VITE PLUS START-->
 
-# Using Vite+, the Unified Toolchain for the Web
+## Using Vite+, the Unified Toolchain for the Web
 
 This project is using Vite+, a unified toolchain built on top of Vite, Rolldown,
 Vitest, tsdown, Oxlint, Oxfmt, and Vite Task. Vite+ wraps runtime management,
@@ -8,13 +38,13 @@ package management, and frontend tooling in a single global CLI called `vp`.
 Vite+ is distinct from Vite, but it invokes Vite through `vp dev` and
 `vp build`.
 
-## Vite+ Workflow
+### Vite+ Workflow
 
 `vp` is a global binary that handles the full development lifecycle. Run
 `vp help` to print a list of commands and `vp <command> --help` for information
 about a specific command.
 
-### Start
+#### Start
 
 - create - Create a new project from a template
 - migrate - Migrate an existing project to Vite+
@@ -23,7 +53,7 @@ about a specific command.
 - install (`i`) - Install dependencies
 - env - Manage Node.js versions
 
-### Develop
+#### Develop
 
 - dev - Run the development server
 - check - Run format, lint, and TypeScript type checks
@@ -31,20 +61,20 @@ about a specific command.
 - fmt - Format code
 - test - Run tests
 
-### Execute
+#### Execute
 
 - run - Run monorepo tasks
 - exec - Execute a command from local `node_modules/.bin`
 - dlx - Execute a package binary without installing it as a dependency
 - cache - Manage the task cache
 
-### Build
+#### Build
 
 - build - Build for production
 - pack - Build libraries
 - preview - Preview production build
 
-### Manage Dependencies
+#### Manage Dependencies
 
 Vite+ automatically detects and wraps the underlying package manager such as
 pnpm, npm, or Yarn through the `packageManager` field in `package.json` or
@@ -61,7 +91,7 @@ package manager-specific lockfiles.
 - link (`ln`) / unlink - Manage local package links
 - pm - Forward a command to the package manager
 
-### Maintain
+#### Maintain
 
 - upgrade - Update `vp` itself to the latest version
 
@@ -71,7 +101,7 @@ These commands map to their corresponding tools. For example,
 tools can be checked using `vp --version`. This is useful when researching
 documentation, features, and bugs.
 
-## Common Pitfalls
+### Common Pitfalls
 
 - **Using the package manager directly:** Do not use pnpm, npm, or Yarn
   directly. Vite+ can handle all package manager operations.
@@ -97,7 +127,7 @@ documentation, features, and bugs.
 - **Type-Aware Linting:** There is no need to install `oxlint-tsgolint`,
   `vp lint --type-aware` works out of the box.
 
-## CI Integration
+### CI Integration
 
 For GitHub Actions, consider using
 [`voidzero-dev/setup-vp`](https://github.com/voidzero-dev/setup-vp) to replace
@@ -112,7 +142,7 @@ with a single action.
 - run: vp test
 ```
 
-## Review Checklist for Agents
+### Review Checklist for Agents
 
 - [ ] Run `vp install` after pulling remote changes and before getting started.
 - [ ] Run `vp check` and `vp test` to validate changes.
