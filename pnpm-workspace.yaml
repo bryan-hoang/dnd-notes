@@ -1,8 +1,3 @@
-onlyBuiltDependencies:
-  - "@vercel/speed-insights"
-  - esbuild
-  - sharp
-
 overrides:
   vite: "catalog:"
   vitest: "catalog:"
@@ -17,3 +12,6 @@ peerDependencyRules:
   allowedVersions:
     vite: "*"
     vitest: "*"
+allowBuilds:
+  esbuild: true
+  sharp: true
