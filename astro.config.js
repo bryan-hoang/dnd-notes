@@ -7,8 +7,8 @@ const logger = createLogger();
 // Suppress warnings related to `esbuildOptions` being used by Astro plugins.
 // Vite+ uses Rolldown which doesn't support `esbuildOptions`, so these warnings
 // are expected but noisy.
-const originalWarn = logger.warn;
-const originalInfo = logger.info;
+const originalWarn = logger.warn.bind(logger);
+const originalInfo = logger.info.bind(logger);
 
 logger.warn = (msg, options) => {
 	if (
@@ -71,11 +71,11 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: "Current Campaigns",
-					autogenerate: { directory: "current" },
+					items: [{ autogenerate: { directory: "current" } }],
 				},
 				{
 					label: "Previous Campaigns",
-					autogenerate: { directory: "previous", collapsed: true },
+					items: [{ autogenerate: { directory: "previous", collapsed: true } }],
 				},
 			],
 			components: {
