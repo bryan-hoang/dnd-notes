@@ -19,7 +19,7 @@
 	"devDependencies": {
 		"@commitlint/cli": "21.0.2",
 		"@commitlint/config-conventional": "21.0.2",
-		"@types/react": "19.2.15",
+		"@types/react": "19.2.16",
 		"husky": "9.1.7",
 		"lint-staged": "17.0.7",
 		"markdownlint-cli": "0.48.0",
