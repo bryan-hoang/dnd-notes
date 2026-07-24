@@ -23,7 +23,7 @@
 		"husky": "9.1.7",
 		"lint-staged": "17.0.8",
 		"markdownlint-cli": "0.49.0",
-		"typescript": "6.0.3",
+		"typescript": "7.0.2",
 		"vite-plus": "catalog:"
 	},
 	"packageManager": "pnpm@11.11.0"
