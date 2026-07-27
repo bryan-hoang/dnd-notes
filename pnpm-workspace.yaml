@@ -1,3 +1,6 @@
+# Work around voidzero-dev/vite-plus#2054 until core owns its bindings.
+enableGlobalVirtualStore: false
+
 overrides:
   esbuild@>=0.17.0 <0.28.1: ^0.28.1
   esbuild@>=0.27.3 <0.28.1: ^0.28.1
