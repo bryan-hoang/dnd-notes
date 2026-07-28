@@ -21,7 +21,7 @@
 		"@commitlint/config-conventional": "21.2.0",
 		"@types/react": "19.2.17",
 		"husky": "9.1.7",
-		"lint-staged": "17.0.8",
+		"lint-staged": "17.1.0",
 		"markdownlint-cli": "0.49.1",
 		"typescript": "7.0.2",
 		"vite-plus": "catalog:"
